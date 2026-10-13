@@ -2,7 +2,8 @@
 
 > End-to-end Business Analyst case study: from a messy as-is order process to a fully specified, tested, and measured OMS — requirements, process design, Agile backlog, SQL analysis, Power BI dashboard, UAT, and traceability.
 
-![Executive Dashboard]([05_PowerBI/02_Page1_Executive_Overview.png](https://github.com/iamvikash28/E-commerce-Order-Management-System-OMS-Business-Analyst-Project/blob/main/05_PowerBI/Ecommerce_OMS_Project.pdf)
+![Executive Dashboard](05_PowerBI/Ecommerce_OMS_Project.pdf)
+
 
 ## Table of contents
 - [Project overview](#project-overview)
