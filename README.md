@@ -58,23 +58,15 @@ Findings come from SQL run on a synthetic dataset of 6,000 orders (Jan–Jun 202
 | 9 | UAT: 25 test cases (21 pass, 4 fail with defects logged) | `02_Tracker` > UAT |
 | 10 | Requirements Traceability Matrix (business requirement → functional requirement → user story → test case → result) | `02_Tracker` > RTM |
 
-Interview preparation notes are in `01_Documents/Interview_Talking_Points.md`.
-
 ## Dashboard
 Four pages, each tied to a business requirement.
 
 | Page | Business requirement | Preview |
 |---|---|---|
-| 1. Executive Overview | All | `05_PowerBI/02_Page1_Executive_Overview.png` |
-| 2. Fulfilment & Delivery SLA | BR-01: reduce late deliveries | `05_PowerBI/03_Page2_Fulfilment_SLA.png` |
-| 3. Checkout, Payments & Cancellations | BR-02, BR-03: payment recovery, stock accuracy | `05_PowerBI/04_Page3_Checkout_Payments.png` |
-| 4. Returns, Refunds & Support | BR-05, BR-06: fewer tickets, fast refunds | `05_PowerBI/05_Page4_Returns_Refunds_Support.png` |
-
-![Page 2](05_PowerBI/03_Page2_Fulfilment_SLA.png)
-![Page 3](05_PowerBI/04_Page3_Checkout_Payments.png)
-![Page 4](05_PowerBI/05_Page4_Returns_Refunds_Support.png)
-
-The model, relationships, DAX measures, and visual specifications are in `05_PowerBI/01_Model_and_Dashboard_Spec.md`.
+| 1. Executive Overview | All |
+| 2. Fulfilment & Delivery SLA | BR-01: reduce late deliveries |
+| 3. Checkout, Payments & Cancellations | BR-02, BR-03: payment recovery, stock accuracy |
+| 4. Returns, Refunds & Support | BR-05, BR-06: fewer tickets, fast refunds |
 
 ## Repository structure
 ```
