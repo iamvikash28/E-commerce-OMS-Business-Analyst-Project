@@ -2,6 +2,8 @@
 
 > End-to-end Business Analyst case study: from a messy as-is order process to a fully specified, tested, and measured OMS — requirements, process design, Agile backlog, SQL analysis, Power BI dashboard, UAT, and traceability.
 
+![Executive Dashboard](05_PowerBI/Page_1.png)
+
 
 ## Table of contents
 - [Project overview](#project-overview)
@@ -63,11 +65,14 @@ Four pages, each tied to a business requirement.
 
 | Page | Business requirement | Preview |
 |---|---|---|
-| 1. Executive Overview | All |
-| 2. Fulfilment & Delivery SLA | BR-01: reduce late deliveries |
-| 3. Checkout, Payments & Cancellations | BR-02, BR-03: payment recovery, stock accuracy |
-| 4. Returns, Refunds & Support | BR-05, BR-06: fewer tickets, fast refunds |
+| 1. Executive Overview | All | `05_PowerBI/Page_1.png` |
+| 2. Fulfilment & Delivery SLA | BR-01: reduce late deliveries | `05_PowerBI/Page_2.png` |
+| 3. Checkout, Payments & Cancellations | BR-02, BR-03: payment recovery, stock accuracy | `05_PowerBI/Page_3.png` |
+| 4. Returns, Refunds & Support | BR-05, BR-06: fewer tickets, fast refunds | `05_PowerBI/Page_4.png` |
 
+![Page 2](05_PowerBI/Page_2.png)
+![Page 3](05_PowerBI/Page_3.png)
+![Page 4](05_PowerBI/Page_4.png)
 ## Repository structure
 ```
 Ecommerce_OMS_BA_Project/
