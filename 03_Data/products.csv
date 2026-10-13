@@ -1,0 +1,121 @@
+product_id,product_name,category,unit_price,stock_qty
+1,Electronics Item 001,Electronics,38810,33
+2,Electronics Item 002,Electronics,33880,204
+3,Electronics Item 003,Electronics,34450,180
+4,Electronics Item 004,Electronics,8370,300
+5,Electronics Item 005,Electronics,28950,185
+6,Electronics Item 006,Electronics,17710,137
+7,Electronics Item 007,Electronics,22420,104
+8,Electronics Item 008,Electronics,13780,111
+9,Electronics Item 009,Electronics,2050,371
+10,Electronics Item 010,Electronics,11780,66
+11,Electronics Item 011,Electronics,8070,395
+12,Electronics Item 012,Electronics,22230,130
+13,Electronics Item 013,Electronics,19060,35
+14,Electronics Item 014,Electronics,15140,99
+15,Electronics Item 015,Electronics,36430,23
+16,Electronics Item 016,Electronics,20000,316
+17,Electronics Item 017,Electronics,37760,205
+18,Electronics Item 018,Electronics,11170,134
+19,Electronics Item 019,Electronics,11160,264
+20,Electronics Item 020,Electronics,14220,252
+21,Fashion Item 021,Fashion,3410,375
+22,Fashion Item 022,Fashion,2100,384
+23,Fashion Item 023,Fashion,2240,272
+24,Fashion Item 024,Fashion,3440,327
+25,Fashion Item 025,Fashion,2550,316
+26,Fashion Item 026,Fashion,2030,196
+27,Fashion Item 027,Fashion,2690,281
+28,Fashion Item 028,Fashion,3240,31
+29,Fashion Item 029,Fashion,4120,303
+30,Fashion Item 030,Fashion,880,384
+31,Fashion Item 031,Fashion,3430,33
+32,Fashion Item 032,Fashion,2660,334
+33,Fashion Item 033,Fashion,1680,373
+34,Fashion Item 034,Fashion,2320,90
+35,Fashion Item 035,Fashion,2030,209
+36,Fashion Item 036,Fashion,3560,371
+37,Fashion Item 037,Fashion,1290,384
+38,Fashion Item 038,Fashion,2820,51
+39,Fashion Item 039,Fashion,4660,139
+40,Fashion Item 040,Fashion,3250,279
+41,Home Item 041,Home & Kitchen,450,88
+42,Home Item 042,Home & Kitchen,8330,129
+43,Home Item 043,Home & Kitchen,400,9
+44,Home Item 044,Home & Kitchen,9960,61
+45,Home Item 045,Home & Kitchen,1470,224
+46,Home Item 046,Home & Kitchen,1690,261
+47,Home Item 047,Home & Kitchen,6660,259
+48,Home Item 048,Home & Kitchen,6050,311
+49,Home Item 049,Home & Kitchen,7840,166
+50,Home Item 050,Home & Kitchen,470,109
+51,Home Item 051,Home & Kitchen,1830,6
+52,Home Item 052,Home & Kitchen,3490,82
+53,Home Item 053,Home & Kitchen,1190,124
+54,Home Item 054,Home & Kitchen,6220,71
+55,Home Item 055,Home & Kitchen,3490,8
+56,Home Item 056,Home & Kitchen,880,62
+57,Home Item 057,Home & Kitchen,5590,266
+58,Home Item 058,Home & Kitchen,9520,251
+59,Home Item 059,Home & Kitchen,7510,374
+60,Home Item 060,Home & Kitchen,3290,319
+61,Beauty Item 061,Beauty,2820,227
+62,Beauty Item 062,Beauty,2540,55
+63,Beauty Item 063,Beauty,2650,225
+64,Beauty Item 064,Beauty,780,24
+65,Beauty Item 065,Beauty,2200,172
+66,Beauty Item 066,Beauty,1030,156
+67,Beauty Item 067,Beauty,2970,171
+68,Beauty Item 068,Beauty,370,111
+69,Beauty Item 069,Beauty,560,274
+70,Beauty Item 070,Beauty,2430,336
+71,Beauty Item 071,Beauty,1950,307
+72,Beauty Item 072,Beauty,1330,251
+73,Beauty Item 073,Beauty,450,215
+74,Beauty Item 074,Beauty,1730,12
+75,Beauty Item 075,Beauty,1710,289
+76,Beauty Item 076,Beauty,1190,217
+77,Beauty Item 077,Beauty,960,108
+78,Beauty Item 078,Beauty,510,131
+79,Beauty Item 079,Beauty,2430,374
+80,Beauty Item 080,Beauty,1960,249
+81,Books Item 081,Books,780,190
+82,Books Item 082,Books,570,248
+83,Books Item 083,Books,960,165
+84,Books Item 084,Books,730,188
+85,Books Item 085,Books,420,116
+86,Books Item 086,Books,200,175
+87,Books Item 087,Books,880,274
+88,Books Item 088,Books,1180,15
+89,Books Item 089,Books,940,318
+90,Books Item 090,Books,590,113
+91,Books Item 091,Books,500,273
+92,Books Item 092,Books,1050,257
+93,Books Item 093,Books,670,261
+94,Books Item 094,Books,190,243
+95,Books Item 095,Books,160,383
+96,Books Item 096,Books,1080,203
+97,Books Item 097,Books,520,292
+98,Books Item 098,Books,800,282
+99,Books Item 099,Books,670,94
+100,Books Item 100,Books,190,113
+101,Sports Item 101,Sports,4900,169
+102,Sports Item 102,Sports,4700,111
+103,Sports Item 103,Sports,8450,146
+104,Sports Item 104,Sports,7660,156
+105,Sports Item 105,Sports,4150,241
+106,Sports Item 106,Sports,2580,87
+107,Sports Item 107,Sports,3590,321
+108,Sports Item 108,Sports,1550,175
+109,Sports Item 109,Sports,6140,282
+110,Sports Item 110,Sports,4070,32
+111,Sports Item 111,Sports,430,187
+112,Sports Item 112,Sports,7340,11
+113,Sports Item 113,Sports,8020,270
+114,Sports Item 114,Sports,370,137
+115,Sports Item 115,Sports,2210,379
+116,Sports Item 116,Sports,5120,129
+117,Sports Item 117,Sports,2710,225
+118,Sports Item 118,Sports,340,102
+119,Sports Item 119,Sports,1730,248
+120,Sports Item 120,Sports,6120,186

@@ -1,0 +1,707 @@
+return_id,order_id,product_id,return_reason,return_date,refund_status,refund_amount
+1,2,36,Changed mind,2026-02-20,Refund Pending,3560
+2,6,28,Size/fit issue,2026-02-26,Refunded,3240
+3,7,50,Changed mind,2026-04-13,Refunded,470
+4,20,48,Not as described,2026-06-04,Refunded,6050
+5,38,75,Changed mind,2026-04-07,Refund Pending,1710
+6,40,22,Size/fit issue,2026-03-09,Refunded,2100
+7,47,74,Damaged in transit,2026-02-03,Refunded,1730
+8,49,23,Size/fit issue,2026-05-03,Refunded,2240
+9,52,36,Size/fit issue,2026-05-16,Refunded,3560
+10,62,52,Damaged in transit,2026-02-02,Refunded,6980
+11,65,102,Size/fit issue,2026-06-09,Refund Pending,4700
+12,70,24,Size/fit issue,2026-03-11,Refunded,3440
+13,83,26,Not as described,2026-04-22,Refunded,2030
+14,89,114,Changed mind,2026-05-01,Rejected,370
+15,93,22,Size/fit issue,2026-05-14,Rejected,2100
+16,101,25,Changed mind,2026-05-28,Refund Pending,2550
+17,120,14,Changed mind,2026-05-10,Refunded,15140
+18,142,45,Not as described,2026-04-05,Refund Pending,2940
+19,142,3,Not as described,2026-04-02,Refund Pending,68900
+20,170,61,Changed mind,2026-05-24,Refunded,2820
+21,188,99,Wrong item,2026-02-01,Refunded,670
+22,195,26,Not as described,2026-05-04,Rejected,2030
+23,210,11,Not as described,2026-03-16,Refunded,8070
+24,211,26,Size/fit issue,2026-04-03,Refund Pending,2030
+25,224,15,Changed mind,2026-01-26,Refunded,36430
+26,236,20,Not as described,2026-05-10,Refunded,14220
+27,239,113,Defective,2026-04-16,Rejected,8020
+28,252,103,Changed mind,2026-04-09,Refund Pending,16900
+29,252,104,Changed mind,2026-04-09,Refunded,15320
+30,272,104,Defective,2026-05-16,Refunded,7660
+31,279,104,Changed mind,2026-05-02,Refund Pending,7660
+32,280,105,Defective,2026-05-24,Refunded,4150
+33,293,23,Not as described,2026-06-06,Refunded,6720
+34,294,80,Wrong item,2026-06-03,Refunded,1960
+35,295,33,Size/fit issue,2026-04-13,Refunded,1680
+36,305,60,Damaged in transit,2026-07-02,Refund Pending,3290
+37,306,20,Defective,2026-05-12,Refunded,42660
+38,310,4,Not as described,2026-05-21,Refunded,8370
+39,311,26,Size/fit issue,2026-03-12,Refunded,2030
+40,315,39,Not as described,2026-03-24,Refunded,4660
+41,336,103,Changed mind,2026-05-27,Refunded,8450
+42,352,26,Changed mind,2026-06-02,Refund Pending,2030
+43,353,104,Defective,2026-06-06,Refunded,7660
+44,356,32,Not as described,2026-05-04,Refunded,5320
+45,367,37,Changed mind,2026-04-17,Refunded,1290
+46,376,18,Changed mind,2026-02-27,Refunded,11170
+47,377,20,Changed mind,2026-02-16,Refunded,28440
+48,383,24,Changed mind,2026-02-14,Refunded,3440
+49,386,19,Defective,2026-05-09,Refunded,22320
+50,398,10,Changed mind,2026-06-08,Refunded,11780
+51,411,8,Not as described,2026-03-31,Refund Pending,13780
+52,423,34,Changed mind,2026-03-13,Refund Pending,6960
+53,435,47,Not as described,2026-04-05,Refunded,19980
+54,447,72,Changed mind,2026-03-11,Refunded,2660
+55,464,5,Not as described,2026-01-26,Refunded,28950
+56,477,48,Not as described,2026-06-18,Refunded,12100
+57,487,34,Not as described,2026-04-23,Refunded,4640
+58,512,104,Changed mind,2026-02-25,Refunded,7660
+59,518,25,Not as described,2026-04-02,Refund Pending,7650
+60,524,74,Damaged in transit,2026-04-19,Refunded,1730
+61,527,38,Size/fit issue,2026-02-19,Refunded,2820
+62,531,20,Changed mind,2026-05-26,Refund Pending,14220
+63,552,101,Changed mind,2026-01-29,Refunded,9800
+64,554,69,Damaged in transit,2026-06-08,Refunded,560
+65,588,96,Damaged in transit,2026-01-27,Refunded,1080
+66,589,29,Not as described,2026-01-22,Refunded,4120
+67,615,28,Size/fit issue,2026-04-28,Refunded,3240
+68,616,40,Size/fit issue,2026-04-11,Refund Pending,3250
+69,618,38,Not as described,2026-04-02,Refunded,2820
+70,626,24,Not as described,2026-06-16,Refund Pending,3440
+71,631,37,Not as described,2026-04-14,Refunded,1290
+72,639,113,Changed mind,2026-05-12,Refunded,8020
+73,646,4,Not as described,2026-01-27,Refunded,8370
+74,656,8,Changed mind,2026-03-14,Refunded,13780
+75,663,48,Changed mind,2026-04-07,Refunded,12100
+76,674,30,Size/fit issue,2026-04-02,Refunded,880
+77,676,17,Changed mind,2026-05-25,Refunded,37760
+78,686,38,Changed mind,2026-06-09,Refund Pending,2820
+79,689,25,Size/fit issue,2026-06-30,Rejected,2550
+80,704,52,Changed mind,2026-05-27,Refund Pending,6980
+81,706,79,Damaged in transit,2026-06-06,Refunded,4860
+82,710,37,Changed mind,2026-04-26,Refund Pending,1290
+83,725,26,Not as described,2026-03-22,Refunded,2030
+84,737,35,Changed mind,2026-05-11,Refunded,2030
+85,738,28,Not as described,2026-05-12,Refunded,3240
+86,756,33,Changed mind,2026-04-22,Refunded,1680
+87,758,113,Changed mind,2026-05-26,Rejected,8020
+88,765,115,Changed mind,2026-06-03,Refunded,2210
+89,767,40,Not as described,2026-05-07,Refunded,3250
+90,782,14,Not as described,2026-05-24,Refunded,15140
+91,791,102,Changed mind,2026-04-26,Refunded,4700
+92,794,44,Not as described,2026-04-08,Refunded,9960
+93,797,108,Changed mind,2026-06-19,Refunded,3100
+94,823,5,Changed mind,2026-05-18,Refunded,57900
+95,835,23,Changed mind,2026-02-11,Refunded,2240
+96,839,118,Defective,2026-06-03,Refunded,680
+97,843,15,Changed mind,2026-04-15,Refunded,36430
+98,862,114,Changed mind,2026-04-08,Refunded,370
+99,869,86,Damaged in transit,2026-04-11,Refunded,200
+100,886,120,Changed mind,2026-04-01,Refunded,6120
+101,894,36,Size/fit issue,2026-05-20,Refund Pending,3560
+102,904,119,Changed mind,2026-06-17,Rejected,5190
+103,907,110,Defective,2026-06-04,Refunded,4070
+104,909,22,Not as described,2026-05-02,Refunded,2100
+105,920,44,Damaged in transit,2026-04-26,Refunded,9960
+106,920,1,Changed mind,2026-04-26,Refunded,38810
+107,927,11,Not as described,2026-05-26,Refunded,8070
+108,928,109,Defective,2026-05-10,Refund Pending,6140
+109,936,53,Changed mind,2026-04-18,Refunded,1190
+110,954,20,Not as described,2026-06-20,Refunded,14220
+111,959,66,Wrong item,2026-06-20,Rejected,1030
+112,959,9,Defective,2026-06-23,Refunded,2050
+113,961,79,Damaged in transit,2026-05-14,Refunded,2430
+114,967,42,Changed mind,2026-04-08,Refund Pending,8330
+115,969,56,Damaged in transit,2026-04-25,Refunded,1760
+116,975,53,Not as described,2026-03-04,Refunded,1190
+117,978,35,Size/fit issue,2026-04-21,Refunded,2030
+118,979,41,Not as described,2026-03-13,Refunded,1350
+119,982,49,Not as described,2026-06-11,Refunded,7840
+120,982,63,Changed mind,2026-06-09,Refunded,2650
+121,991,18,Not as described,2026-04-21,Refunded,11170
+122,996,16,Defective,2026-04-30,Refunded,20000
+123,1002,18,Defective,2026-05-08,Refund Pending,11170
+124,1019,118,Defective,2026-02-09,Refunded,340
+125,1025,54,Damaged in transit,2026-05-02,Refunded,12440
+126,1031,116,Changed mind,2026-02-12,Refunded,10240
+127,1038,17,Defective,2026-06-02,Refunded,37760
+128,1040,80,Damaged in transit,2026-05-12,Refunded,1960
+129,1049,73,Changed mind,2026-01-22,Refunded,450
+130,1049,26,Size/fit issue,2026-01-19,Refunded,2030
+131,1060,74,Damaged in transit,2026-02-27,Refunded,5190
+132,1071,27,Changed mind,2026-03-28,Refunded,2690
+133,1087,72,Wrong item,2026-05-21,Refunded,1330
+134,1112,7,Not as described,2026-05-15,Refunded,44840
+135,1116,39,Size/fit issue,2026-06-12,Refund Pending,13980
+136,1128,110,Defective,2026-03-27,Refunded,4070
+137,1133,11,Defective,2026-03-03,Refunded,16140
+138,1139,40,Size/fit issue,2026-03-16,Refunded,6500
+139,1140,23,Size/fit issue,2026-06-17,Rejected,2240
+140,1147,39,Changed mind,2026-06-28,Refund Pending,4660
+141,1148,97,Damaged in transit,2026-05-09,Refunded,520
+142,1165,25,Not as described,2026-03-14,Refund Pending,2550
+143,1171,77,Damaged in transit,2026-03-17,Refunded,960
+144,1185,59,Changed mind,2026-05-01,Refunded,15020
+145,1227,32,Size/fit issue,2026-03-07,Refunded,2660
+146,1232,24,Size/fit issue,2026-05-25,Refund Pending,3440
+147,1240,59,Not as described,2026-01-30,Refunded,7510
+148,1241,39,Changed mind,2026-06-12,Refund Pending,9320
+149,1249,6,Not as described,2026-01-29,Refund Pending,53130
+150,1253,110,Changed mind,2026-05-19,Rejected,4070
+151,1254,57,Changed mind,2026-05-29,Refund Pending,5590
+152,1275,43,Not as described,2026-02-17,Refunded,400
+153,1290,119,Defective,2026-04-28,Refunded,1730
+154,1291,15,Defective,2026-03-02,Refunded,36430
+155,1306,24,Not as described,2026-02-03,Refunded,10320
+156,1311,46,Damaged in transit,2026-04-20,Refunded,1690
+157,1324,104,Size/fit issue,2026-03-22,Refunded,7660
+158,1330,9,Not as described,2026-02-16,Refunded,2050
+159,1331,29,Changed mind,2026-01-18,Refunded,4120
+160,1342,73,Wrong item,2026-05-04,Refund Pending,450
+161,1346,97,Wrong item,2026-06-28,Refund Pending,520
+162,1349,117,Changed mind,2026-04-28,Refund Pending,2710
+163,1357,70,Damaged in transit,2026-04-20,Refund Pending,4860
+164,1358,13,Defective,2026-06-22,Refunded,19060
+165,1359,115,Size/fit issue,2026-03-29,Refunded,2210
+166,1377,34,Changed mind,2026-06-14,Refunded,2320
+167,1385,64,Wrong item,2026-05-09,Refund Pending,780
+168,1386,67,Wrong item,2026-03-10,Refunded,2970
+169,1389,40,Not as described,2026-04-19,Rejected,6500
+170,1397,32,Size/fit issue,2026-05-26,Refunded,5320
+171,1401,28,Changed mind,2026-03-31,Rejected,3240
+172,1404,72,Changed mind,2026-06-25,Refund Pending,2660
+173,1414,53,Damaged in transit,2026-04-27,Refunded,1190
+174,1415,70,Damaged in transit,2026-04-27,Refund Pending,2430
+175,1419,21,Changed mind,2026-04-25,Refunded,3410
+176,1421,98,Wrong item,2026-02-25,Refund Pending,800
+177,1424,73,Wrong item,2026-07-01,Refunded,900
+178,1427,48,Changed mind,2026-03-20,Refunded,12100
+179,1442,41,Changed mind,2026-03-13,Refunded,450
+180,1446,20,Defective,2026-03-23,Refunded,14220
+181,1451,47,Not as described,2026-04-22,Refunded,13320
+182,1452,23,Size/fit issue,2026-03-29,Refunded,2240
+183,1469,116,Size/fit issue,2026-06-03,Refund Pending,10240
+184,1481,1,Defective,2026-02-04,Refunded,38810
+185,1552,5,Not as described,2026-05-26,Refunded,28950
+186,1558,22,Size/fit issue,2026-03-22,Refund Pending,2100
+187,1558,118,Defective,2026-03-28,Refunded,340
+188,1572,53,Damaged in transit,2026-05-24,Refunded,1190
+189,1573,27,Not as described,2026-02-24,Refunded,2690
+190,1589,57,Changed mind,2026-05-11,Refunded,5590
+191,1590,60,Damaged in transit,2026-06-28,Refunded,3290
+192,1593,32,Changed mind,2026-06-01,Refund Pending,2660
+193,1595,35,Changed mind,2026-03-28,Refunded,2030
+194,1600,36,Changed mind,2026-05-19,Refunded,3560
+195,1601,11,Changed mind,2026-06-28,Refunded,8070
+196,1613,34,Size/fit issue,2026-06-25,Refund Pending,2320
+197,1622,21,Not as described,2026-05-02,Refunded,3410
+198,1629,63,Wrong item,2026-06-22,Refunded,2650
+199,1645,38,Not as described,2026-06-20,Rejected,2820
+200,1652,75,Changed mind,2026-02-15,Refunded,1710
+201,1662,70,Wrong item,2026-03-04,Refunded,2430
+202,1663,73,Damaged in transit,2026-05-25,Refunded,450
+203,1667,21,Size/fit issue,2026-06-11,Refunded,6820
+204,1669,25,Changed mind,2026-06-29,Refunded,5100
+205,1675,66,Changed mind,2026-02-19,Refunded,1030
+206,1680,2,Not as described,2026-05-16,Refunded,33880
+207,1689,29,Not as described,2026-01-29,Refunded,8240
+208,1695,5,Changed mind,2026-01-26,Refunded,28950
+209,1698,73,Changed mind,2026-02-13,Refunded,450
+210,1726,37,Size/fit issue,2026-05-21,Refund Pending,1290
+211,1727,23,Size/fit issue,2026-04-29,Refunded,2240
+212,1746,10,Changed mind,2026-02-20,Refund Pending,23560
+213,1748,117,Defective,2026-02-11,Refund Pending,2710
+214,1750,103,Defective,2026-02-17,Refunded,25350
+215,1750,32,Not as described,2026-02-16,Refunded,5320
+216,1764,31,Changed mind,2026-04-28,Rejected,3430
+217,1766,32,Size/fit issue,2026-06-01,Refunded,5320
+218,1772,22,Changed mind,2026-04-03,Refunded,2100
+219,1783,68,Wrong item,2026-02-16,Refund Pending,370
+220,1799,37,Changed mind,2026-02-05,Refunded,1290
+221,1804,26,Size/fit issue,2026-03-17,Refunded,2030
+222,1805,1,Changed mind,2026-02-23,Refunded,38810
+223,1816,7,Not as described,2026-03-21,Refunded,44840
+224,1831,55,Not as described,2026-02-05,Refunded,10470
+225,1848,69,Changed mind,2026-05-03,Refunded,1680
+226,1860,5,Defective,2026-05-08,Refunded,28950
+227,1873,29,Not as described,2026-06-27,Refunded,8240
+228,1884,82,Wrong item,2026-06-23,Refund Pending,570
+229,1886,114,Changed mind,2026-04-20,Refunded,370
+230,1895,22,Changed mind,2026-04-03,Refunded,2100
+231,1897,58,Damaged in transit,2026-06-02,Refunded,9520
+232,1900,13,Changed mind,2026-04-08,Refunded,19060
+233,1906,58,Changed mind,2026-02-10,Refunded,9520
+234,1915,65,Wrong item,2026-06-14,Refunded,2200
+235,1931,53,Not as described,2026-03-10,Refunded,2380
+236,1932,69,Changed mind,2026-06-16,Refund Pending,560
+237,1941,30,Changed mind,2026-02-20,Refunded,880
+238,1954,40,Changed mind,2026-03-28,Refunded,3250
+239,1959,80,Damaged in transit,2026-05-12,Rejected,1960
+240,1963,22,Changed mind,2026-06-05,Refunded,2100
+241,1979,40,Size/fit issue,2026-04-12,Refunded,3250
+242,1984,5,Changed mind,2026-05-14,Refunded,28950
+243,1989,113,Defective,2026-02-16,Refunded,8020
+244,1989,57,Damaged in transit,2026-02-16,Refunded,5590
+245,1994,60,Damaged in transit,2026-05-18,Refunded,3290
+246,2008,65,Wrong item,2026-05-06,Refunded,2200
+247,2010,54,Changed mind,2026-06-29,Refunded,12440
+248,2012,60,Changed mind,2026-03-03,Refunded,3290
+249,2014,34,Size/fit issue,2026-06-08,Refunded,2320
+250,2030,47,Damaged in transit,2026-06-08,Refunded,6660
+251,2040,26,Not as described,2026-04-11,Refunded,2030
+252,2046,38,Changed mind,2026-04-25,Refund Pending,8460
+253,2058,15,Not as described,2026-06-26,Refunded,36430
+254,2068,30,Not as described,2026-04-01,Refund Pending,1760
+255,2078,8,Defective,2026-04-02,Refunded,13780
+256,2080,31,Size/fit issue,2026-03-29,Refund Pending,10290
+257,2086,21,Not as described,2026-05-13,Refunded,3410
+258,2109,26,Changed mind,2026-04-23,Rejected,4060
+259,2131,45,Changed mind,2026-04-28,Refunded,1470
+260,2140,80,Changed mind,2026-04-17,Refund Pending,3920
+261,2140,117,Defective,2026-04-12,Rejected,2710
+262,2141,30,Size/fit issue,2026-06-25,Refunded,880
+263,2143,70,Changed mind,2026-06-04,Refund Pending,2430
+264,2149,114,Defective,2026-06-04,Refunded,370
+265,2164,78,Damaged in transit,2026-06-30,Refunded,510
+266,2165,48,Damaged in transit,2026-05-29,Refund Pending,6050
+267,2165,27,Size/fit issue,2026-06-03,Rejected,2690
+268,2189,33,Not as described,2026-06-01,Refunded,1680
+269,2192,23,Changed mind,2026-05-29,Refunded,4480
+270,2192,99,Damaged in transit,2026-05-24,Refunded,670
+271,2208,22,Changed mind,2026-01-19,Refunded,2100
+272,2213,74,Damaged in transit,2026-04-10,Refund Pending,3460
+273,2250,8,Changed mind,2026-04-27,Refunded,13780
+274,2269,36,Not as described,2026-03-01,Refunded,3560
+275,2273,45,Changed mind,2026-01-28,Refunded,1470
+276,2283,99,Damaged in transit,2026-07-01,Refunded,670
+277,2285,28,Size/fit issue,2026-01-20,Refunded,6480
+278,2290,4,Not as described,2026-02-03,Refunded,8370
+279,2293,28,Changed mind,2026-05-15,Refund Pending,6480
+280,2301,46,Damaged in transit,2026-04-08,Rejected,1690
+281,2310,48,Changed mind,2026-02-14,Refunded,6050
+282,2363,45,Not as described,2026-03-18,Refunded,1470
+283,2364,75,Wrong item,2026-05-25,Refunded,1710
+284,2365,31,Not as described,2026-01-20,Refunded,3430
+285,2368,35,Not as described,2026-06-25,Refunded,2030
+286,2370,33,Changed mind,2026-03-10,Refund Pending,3360
+287,2378,35,Not as described,2026-02-27,Refund Pending,2030
+288,2382,39,Changed mind,2026-04-23,Refunded,4660
+289,2393,56,Damaged in transit,2026-05-15,Refund Pending,880
+290,2397,34,Size/fit issue,2026-05-26,Refund Pending,2320
+291,2400,40,Changed mind,2026-03-06,Refunded,3250
+292,2409,5,Defective,2026-06-23,Refunded,28950
+293,2409,28,Size/fit issue,2026-06-20,Refund Pending,3240
+294,2410,1,Changed mind,2026-05-18,Refunded,38810
+295,2424,72,Wrong item,2026-05-07,Refunded,1330
+296,2427,108,Defective,2026-06-30,Rejected,1550
+297,2433,101,Defective,2026-06-28,Refund Pending,4900
+298,2442,3,Changed mind,2026-02-01,Refunded,34450
+299,2450,26,Changed mind,2026-05-01,Refunded,2030
+300,2454,103,Defective,2026-04-24,Refund Pending,8450
+301,2477,26,Size/fit issue,2026-03-27,Refund Pending,2030
+302,2481,71,Wrong item,2026-02-03,Refunded,3900
+303,2482,21,Not as described,2026-07-01,Refunded,3410
+304,2489,6,Not as described,2026-04-01,Refunded,35420
+305,2498,42,Not as described,2026-06-03,Refunded,8330
+306,2509,31,Size/fit issue,2026-03-29,Refunded,3430
+307,2518,30,Not as described,2026-06-11,Refunded,880
+308,2541,116,Size/fit issue,2026-03-05,Refunded,5120
+309,2544,26,Changed mind,2026-03-17,Refunded,4060
+310,2546,23,Changed mind,2026-03-20,Refunded,2240
+311,2553,45,Changed mind,2026-04-01,Refund Pending,1470
+312,2553,114,Changed mind,2026-04-06,Rejected,370
+313,2562,10,Not as described,2026-06-19,Refunded,11780
+314,2574,34,Changed mind,2026-06-08,Refunded,2320
+315,2584,40,Not as described,2026-05-31,Rejected,3250
+316,2625,11,Defective,2026-04-17,Refund Pending,16140
+317,2644,74,Changed mind,2026-06-20,Refunded,1730
+318,2652,23,Not as described,2026-05-03,Refund Pending,2240
+319,2658,75,Damaged in transit,2026-03-09,Rejected,1710
+320,2662,42,Damaged in transit,2026-04-12,Refunded,8330
+321,2665,29,Not as described,2026-03-21,Rejected,4120
+322,2669,57,Changed mind,2026-03-07,Refunded,5590
+323,2677,48,Damaged in transit,2026-03-12,Refunded,6050
+324,2682,73,Changed mind,2026-01-27,Refunded,450
+325,2683,115,Size/fit issue,2026-04-05,Refund Pending,2210
+326,2692,8,Defective,2026-04-16,Refunded,13780
+327,2710,89,Damaged in transit,2026-06-09,Refunded,1880
+328,2713,3,Not as described,2026-03-11,Refunded,34450
+329,2717,29,Changed mind,2026-03-17,Refunded,8240
+330,2727,40,Size/fit issue,2026-02-09,Refunded,3250
+331,2731,5,Not as described,2026-06-14,Refunded,57900
+332,2733,42,Not as described,2026-06-07,Refunded,8330
+333,2767,115,Defective,2026-04-19,Refunded,2210
+334,2769,73,Wrong item,2026-02-18,Refund Pending,450
+335,2779,115,Defective,2026-03-24,Refunded,4420
+336,2793,74,Wrong item,2026-02-07,Refunded,1730
+337,2794,36,Not as described,2026-01-30,Refunded,3560
+338,2795,37,Size/fit issue,2026-06-10,Refunded,1290
+339,2801,102,Size/fit issue,2026-06-13,Rejected,4700
+340,2812,25,Changed mind,2026-03-20,Refunded,2550
+341,2828,19,Changed mind,2026-06-22,Refunded,11160
+342,2844,53,Changed mind,2026-04-29,Refunded,1190
+343,2849,9,Not as described,2026-05-26,Refunded,2050
+344,2851,14,Changed mind,2026-02-24,Refund Pending,15140
+345,2864,55,Changed mind,2026-05-24,Refunded,3490
+346,2871,34,Changed mind,2026-04-11,Refunded,2320
+347,2890,120,Size/fit issue,2026-06-10,Refunded,6120
+348,2897,24,Not as described,2026-01-29,Refunded,3440
+349,2909,85,Damaged in transit,2026-02-16,Refunded,420
+350,2912,58,Not as described,2026-06-04,Refunded,9520
+351,2913,34,Size/fit issue,2026-03-27,Refund Pending,2320
+352,2922,58,Damaged in transit,2026-05-12,Refunded,9520
+353,2948,117,Size/fit issue,2026-03-13,Refunded,5420
+354,2989,102,Defective,2026-04-30,Refunded,14100
+355,2996,32,Changed mind,2026-05-01,Refunded,2660
+356,2999,107,Defective,2026-06-13,Refunded,3590
+357,3007,29,Changed mind,2026-05-01,Refund Pending,12360
+358,3009,58,Not as described,2026-02-16,Refunded,9520
+359,3014,13,Not as described,2026-06-21,Refunded,19060
+360,3022,38,Not as described,2026-06-01,Refunded,8460
+361,3027,11,Changed mind,2026-04-29,Rejected,16140
+362,3032,35,Changed mind,2026-01-20,Refunded,2030
+363,3033,72,Changed mind,2026-04-22,Refunded,1330
+364,3035,22,Changed mind,2026-04-04,Refunded,4200
+365,3051,74,Changed mind,2026-02-28,Rejected,1730
+366,3054,73,Changed mind,2026-06-06,Refund Pending,450
+367,3059,91,Wrong item,2026-01-19,Refunded,500
+368,3061,17,Changed mind,2026-07-10,Refunded,37760
+369,3079,28,Size/fit issue,2026-01-27,Refunded,3240
+370,3079,31,Size/fit issue,2026-02-01,Refunded,3430
+371,3088,109,Changed mind,2026-01-24,Refunded,6140
+372,3093,70,Changed mind,2026-07-02,Refunded,2430
+373,3100,105,Size/fit issue,2026-03-20,Refunded,4150
+374,3118,72,Damaged in transit,2026-06-16,Refund Pending,1330
+375,3119,34,Not as described,2026-03-06,Refunded,6960
+376,3125,104,Size/fit issue,2026-01-31,Rejected,7660
+377,3126,21,Changed mind,2026-03-25,Refund Pending,6820
+378,3127,86,Damaged in transit,2026-02-25,Refunded,200
+379,3157,68,Changed mind,2026-04-16,Refunded,1110
+380,3157,77,Damaged in transit,2026-04-12,Refund Pending,960
+381,3172,34,Size/fit issue,2026-02-09,Refund Pending,2320
+382,3173,35,Not as described,2026-04-29,Refunded,6090
+383,3179,54,Not as described,2026-04-01,Refund Pending,6220
+384,3181,79,Changed mind,2026-05-29,Refunded,2430
+385,3190,90,Wrong item,2026-06-10,Refunded,590
+386,3210,27,Changed mind,2026-02-08,Refund Pending,2690
+387,3214,65,Changed mind,2026-04-22,Refunded,2200
+388,3223,40,Size/fit issue,2026-03-30,Refunded,6500
+389,3233,38,Size/fit issue,2026-05-28,Rejected,2820
+390,3241,52,Changed mind,2026-06-08,Refunded,10470
+391,3243,102,Defective,2026-02-23,Refunded,4700
+392,3245,60,Not as described,2026-05-11,Refunded,3290
+393,3250,18,Changed mind,2026-02-22,Refund Pending,11170
+394,3257,25,Size/fit issue,2026-06-24,Refunded,2550
+395,3262,65,Changed mind,2026-06-21,Refunded,2200
+396,3267,12,Defective,2026-06-03,Refunded,22230
+397,3274,23,Changed mind,2026-03-28,Refund Pending,2240
+398,3275,32,Size/fit issue,2026-04-18,Refunded,2660
+399,3288,93,Damaged in transit,2026-06-10,Refunded,670
+400,3295,10,Defective,2026-06-20,Refunded,11780
+401,3315,38,Not as described,2026-05-04,Refund Pending,2820
+402,3316,39,Not as described,2026-04-07,Refunded,4660
+403,3323,93,Wrong item,2026-07-01,Refund Pending,670
+404,3324,116,Defective,2026-04-30,Refunded,5120
+405,3327,32,Changed mind,2026-04-26,Refund Pending,2660
+406,3335,46,Not as described,2026-06-22,Refund Pending,1690
+407,3339,46,Damaged in transit,2026-04-17,Refunded,1690
+408,3367,40,Size/fit issue,2026-03-16,Refunded,3250
+409,3368,1,Changed mind,2026-03-14,Refunded,77620
+410,3369,38,Not as described,2026-02-18,Refunded,5640
+411,3388,50,Changed mind,2026-06-06,Refunded,470
+412,3390,1,Not as described,2026-03-31,Rejected,38810
+413,3406,48,Damaged in transit,2026-05-08,Refunded,12100
+414,3407,86,Damaged in transit,2026-06-15,Refunded,400
+415,3409,22,Not as described,2026-06-18,Refunded,2100
+416,3428,80,Wrong item,2026-05-31,Refund Pending,1960
+417,3433,26,Not as described,2026-06-27,Refunded,4060
+418,3473,62,Changed mind,2026-07-06,Refunded,2540
+419,3483,29,Size/fit issue,2026-04-05,Refunded,4120
+420,3487,23,Changed mind,2026-05-04,Refund Pending,6720
+421,3498,38,Changed mind,2026-06-04,Refunded,2820
+422,3504,11,Not as described,2026-03-14,Refunded,8070
+423,3506,6,Defective,2026-01-23,Refunded,17710
+424,3529,36,Changed mind,2026-05-15,Refunded,3560
+425,3535,116,Changed mind,2026-05-16,Refunded,5120
+426,3544,86,Damaged in transit,2026-02-17,Refunded,200
+427,3551,58,Changed mind,2026-05-09,Refunded,9520
+428,3568,115,Defective,2026-02-14,Refunded,2210
+429,3585,111,Changed mind,2026-05-16,Refunded,430
+430,3590,37,Not as described,2026-05-29,Refunded,1290
+431,3595,8,Changed mind,2026-03-20,Refunded,27560
+432,3601,28,Not as described,2026-01-15,Refunded,3240
+433,3602,29,Not as described,2026-02-23,Refunded,4120
+434,3604,108,Defective,2026-05-01,Refunded,4650
+435,3619,27,Not as described,2026-06-29,Refunded,2690
+436,3622,99,Damaged in transit,2026-06-25,Refunded,670
+437,3623,34,Size/fit issue,2026-06-03,Refunded,2320
+438,3630,77,Wrong item,2026-06-18,Refunded,2880
+439,3635,19,Not as described,2026-04-13,Refunded,11160
+440,3642,16,Changed mind,2026-05-12,Refund Pending,20000
+441,3649,29,Changed mind,2026-03-26,Refunded,12360
+442,3650,107,Size/fit issue,2026-02-22,Refunded,3590
+443,3651,31,Changed mind,2026-03-20,Refunded,3430
+444,3660,4,Changed mind,2026-05-29,Refunded,8370
+445,3673,111,Defective,2026-03-02,Refunded,430
+446,3684,9,Changed mind,2026-06-26,Refunded,2050
+447,3695,26,Size/fit issue,2026-03-16,Refunded,2030
+448,3705,41,Changed mind,2026-04-30,Refunded,450
+449,3708,40,Size/fit issue,2026-05-16,Refunded,3250
+450,3713,29,Changed mind,2026-05-11,Refunded,4120
+451,3726,28,Changed mind,2026-01-31,Refund Pending,3240
+452,3728,56,Damaged in transit,2026-03-17,Refunded,880
+453,3730,20,Changed mind,2026-03-06,Refund Pending,14220
+454,3736,19,Changed mind,2026-03-31,Refunded,11160
+455,3738,12,Changed mind,2026-07-05,Refunded,22230
+456,3757,26,Changed mind,2026-03-22,Refunded,2030
+457,3757,38,Size/fit issue,2026-03-21,Refunded,2820
+458,3763,24,Changed mind,2026-03-13,Refunded,3440
+459,3763,101,Changed mind,2026-03-15,Refund Pending,9800
+460,3767,29,Size/fit issue,2026-01-22,Refunded,8240
+461,3774,29,Changed mind,2026-03-06,Refunded,4120
+462,3810,39,Not as described,2026-06-13,Refunded,9320
+463,3824,118,Defective,2026-01-16,Refund Pending,340
+464,3854,116,Defective,2026-02-27,Refunded,10240
+465,3854,13,Changed mind,2026-02-20,Refunded,19060
+466,3858,39,Size/fit issue,2026-06-04,Refunded,4660
+467,3866,63,Changed mind,2026-01-26,Refunded,2650
+468,3869,66,Wrong item,2026-04-01,Refund Pending,1030
+469,3873,17,Changed mind,2026-01-20,Refunded,113280
+470,3875,16,Defective,2026-03-05,Rejected,40000
+471,3877,61,Wrong item,2026-04-11,Refunded,2820
+472,3882,42,Not as described,2026-01-30,Refunded,16660
+473,3885,16,Defective,2026-07-02,Rejected,20000
+474,3912,13,Changed mind,2026-05-18,Rejected,19060
+475,3922,28,Changed mind,2026-05-09,Refunded,3240
+476,3927,31,Changed mind,2026-03-10,Refunded,3430
+477,3930,18,Changed mind,2026-04-07,Refund Pending,22340
+478,3951,45,Changed mind,2026-06-11,Refunded,1470
+479,3953,114,Changed mind,2026-03-12,Refunded,370
+480,3956,66,Damaged in transit,2026-03-04,Refunded,1030
+481,3964,38,Not as described,2026-04-16,Refund Pending,2820
+482,4027,48,Changed mind,2026-03-29,Refunded,6050
+483,4034,78,Damaged in transit,2026-03-01,Refunded,510
+484,4036,36,Changed mind,2026-03-12,Refunded,10680
+485,4038,4,Defective,2026-05-15,Refunded,8370
+486,4049,32,Not as described,2026-04-15,Refunded,2660
+487,4052,65,Wrong item,2026-03-22,Refunded,2200
+488,4055,22,Changed mind,2026-05-12,Refunded,2100
+489,4070,57,Not as described,2026-02-23,Refunded,5590
+490,4070,65,Wrong item,2026-02-26,Refunded,2200
+491,4085,9,Defective,2026-04-08,Rejected,2050
+492,4090,118,Changed mind,2026-04-12,Refunded,340
+493,4130,75,Changed mind,2026-05-01,Refund Pending,1710
+494,4138,25,Changed mind,2026-02-03,Refunded,2550
+495,4151,112,Changed mind,2026-03-20,Rejected,7340
+496,4160,39,Not as described,2026-04-09,Refunded,13980
+497,4162,62,Wrong item,2026-06-04,Refunded,2540
+498,4164,77,Changed mind,2026-01-27,Refunded,960
+499,4165,103,Changed mind,2026-02-17,Rejected,8450
+500,4187,1,Changed mind,2026-07-02,Refunded,38810
+501,4196,31,Size/fit issue,2026-03-11,Refunded,6860
+502,4205,2,Defective,2026-01-23,Refunded,33880
+503,4206,25,Changed mind,2026-03-04,Refunded,2550
+504,4240,78,Wrong item,2026-03-12,Refunded,510
+505,4243,67,Changed mind,2026-02-13,Refund Pending,2970
+506,4256,39,Changed mind,2026-02-17,Refunded,4660
+507,4286,60,Damaged in transit,2026-04-29,Refunded,3290
+508,4314,66,Wrong item,2026-04-14,Refunded,3090
+509,4319,13,Changed mind,2026-02-14,Refund Pending,19060
+510,4327,38,Size/fit issue,2026-03-16,Refund Pending,2820
+511,4330,19,Changed mind,2026-03-30,Rejected,11160
+512,4349,66,Damaged in transit,2026-06-29,Refund Pending,1030
+513,4351,50,Changed mind,2026-03-04,Refunded,470
+514,4357,25,Size/fit issue,2026-05-19,Refunded,2550
+515,4364,69,Wrong item,2026-05-30,Refunded,560
+516,4372,26,Not as described,2026-02-22,Refunded,2030
+517,4375,104,Defective,2026-02-09,Refunded,7660
+518,4395,71,Damaged in transit,2026-03-26,Refunded,1950
+519,4397,105,Defective,2026-04-26,Refunded,8300
+520,4399,51,Damaged in transit,2026-06-02,Refund Pending,1830
+521,4399,47,Changed mind,2026-06-05,Refunded,6660
+522,4400,39,Changed mind,2026-03-18,Refund Pending,4660
+523,4401,96,Wrong item,2026-04-25,Refunded,3240
+524,4407,70,Changed mind,2026-04-28,Rejected,2430
+525,4409,62,Changed mind,2026-05-22,Refunded,2540
+526,4412,38,Size/fit issue,2026-02-03,Refunded,2820
+527,4414,65,Wrong item,2026-02-14,Refunded,2200
+528,4434,119,Changed mind,2026-03-31,Refunded,1730
+529,4450,49,Not as described,2026-03-29,Refunded,7840
+530,4498,48,Not as described,2026-02-15,Refunded,12100
+531,4502,76,Damaged in transit,2026-05-05,Rejected,1190
+532,4512,107,Changed mind,2026-04-23,Refund Pending,3590
+533,4515,64,Wrong item,2026-04-22,Refund Pending,1560
+534,4523,1,Defective,2026-03-31,Refunded,38810
+535,4539,11,Changed mind,2026-03-31,Refunded,16140
+536,4543,39,Not as described,2026-03-15,Refund Pending,9320
+537,4569,78,Changed mind,2026-02-27,Refund Pending,510
+538,4571,53,Damaged in transit,2026-02-14,Refund Pending,1190
+539,4581,33,Size/fit issue,2026-03-25,Refund Pending,1680
+540,4591,52,Damaged in transit,2026-05-03,Refunded,6980
+541,4602,80,Wrong item,2026-03-16,Refunded,1960
+542,4609,88,Wrong item,2026-03-04,Rejected,1180
+543,4621,28,Changed mind,2026-04-27,Refund Pending,3240
+544,4625,70,Changed mind,2026-03-23,Refunded,2430
+545,4630,92,Damaged in transit,2026-03-28,Refunded,1050
+546,4634,95,Damaged in transit,2026-05-11,Refunded,160
+547,4649,43,Damaged in transit,2026-04-20,Rejected,800
+548,4651,79,Changed mind,2026-06-11,Refunded,2430
+549,4658,1,Not as described,2026-04-15,Refunded,38810
+550,4663,34,Size/fit issue,2026-04-13,Refunded,2320
+551,4671,17,Defective,2026-06-10,Refunded,37760
+552,4678,118,Defective,2026-06-08,Refunded,340
+553,4694,17,Changed mind,2026-05-14,Refund Pending,37760
+554,4696,45,Not as described,2026-05-18,Refund Pending,2940
+555,4702,21,Size/fit issue,2026-03-18,Refunded,3410
+556,4716,23,Size/fit issue,2026-04-04,Refunded,2240
+557,4731,59,Changed mind,2026-02-04,Refunded,15020
+558,4747,57,Damaged in transit,2026-05-04,Refunded,5590
+559,4752,112,Changed mind,2026-04-15,Refund Pending,7340
+560,4753,74,Damaged in transit,2026-03-31,Refunded,1730
+561,4753,29,Changed mind,2026-04-04,Refunded,4120
+562,4757,21,Not as described,2026-06-06,Refunded,3410
+563,4763,76,Damaged in transit,2026-04-22,Refunded,2380
+564,4764,80,Damaged in transit,2026-04-18,Refunded,1960
+565,4777,9,Defective,2026-02-24,Refunded,2050
+566,4777,22,Not as described,2026-02-24,Refunded,2100
+567,4779,29,Not as described,2026-03-09,Refund Pending,4120
+568,4780,18,Not as described,2026-02-01,Refunded,11170
+569,4780,14,Not as described,2026-02-05,Refund Pending,15140
+570,4786,4,Changed mind,2026-06-15,Refunded,16740
+571,4799,25,Not as described,2026-03-24,Refunded,2550
+572,4799,49,Not as described,2026-03-20,Refunded,7840
+573,4813,28,Not as described,2026-02-14,Refunded,3240
+574,4817,26,Changed mind,2026-06-01,Refunded,2030
+575,4821,4,Not as described,2026-06-20,Refunded,8370
+576,4826,18,Changed mind,2026-04-20,Rejected,11170
+577,4835,11,Defective,2026-04-28,Refund Pending,16140
+578,4849,101,Changed mind,2026-01-26,Refunded,9800
+579,4864,33,Size/fit issue,2026-05-18,Rejected,1680
+580,4900,112,Changed mind,2026-02-26,Refund Pending,14680
+581,4917,28,Changed mind,2026-04-12,Refunded,3240
+582,4932,37,Not as described,2026-05-20,Refunded,3870
+583,4935,6,Not as described,2026-04-09,Rejected,17710
+584,4942,112,Changed mind,2026-05-31,Refunded,7340
+585,4951,36,Not as described,2026-03-01,Refunded,3560
+586,4992,18,Not as described,2026-06-26,Refunded,11170
+587,4998,66,Changed mind,2026-04-06,Refund Pending,1030
+588,5000,11,Defective,2026-04-13,Refunded,16140
+589,5024,46,Changed mind,2026-03-06,Refunded,3380
+590,5038,50,Damaged in transit,2026-06-16,Refunded,470
+591,5039,23,Not as described,2026-02-20,Refund Pending,2240
+592,5040,79,Changed mind,2026-02-16,Refunded,4860
+593,5055,40,Changed mind,2026-06-07,Refunded,3250
+594,5082,115,Size/fit issue,2026-05-14,Refunded,4420
+595,5114,27,Size/fit issue,2026-05-18,Refunded,2690
+596,5118,51,Damaged in transit,2026-04-21,Refunded,5490
+597,5128,38,Not as described,2026-04-05,Refunded,2820
+598,5136,47,Changed mind,2026-03-18,Refunded,6660
+599,5139,37,Changed mind,2026-05-07,Refunded,2580
+600,5150,30,Size/fit issue,2026-04-11,Refund Pending,1760
+601,5151,13,Not as described,2026-05-01,Refunded,38120
+602,5162,44,Not as described,2026-05-01,Refunded,9960
+603,5166,1,Not as described,2026-02-02,Refunded,38810
+604,5167,52,Damaged in transit,2026-06-13,Refunded,3490
+605,5177,32,Changed mind,2026-04-16,Refunded,2660
+606,5180,26,Not as described,2026-04-07,Refund Pending,2030
+607,5183,51,Damaged in transit,2026-04-29,Refunded,3660
+608,5187,55,Not as described,2026-04-29,Refund Pending,3490
+609,5193,62,Changed mind,2026-07-03,Refunded,2540
+610,5194,24,Changed mind,2026-06-30,Refunded,3440
+611,5206,23,Changed mind,2026-05-22,Refunded,2240
+612,5207,49,Not as described,2026-05-06,Refunded,7840
+613,5213,38,Changed mind,2026-07-01,Refunded,2820
+614,5215,7,Not as described,2026-06-02,Refunded,22420
+615,5222,40,Size/fit issue,2026-02-22,Refunded,9750
+616,5229,30,Changed mind,2026-01-26,Refunded,880
+617,5231,27,Not as described,2026-06-24,Refunded,2690
+618,5234,2,Defective,2026-06-13,Refund Pending,33880
+619,5235,8,Changed mind,2026-01-24,Rejected,27560
+620,5268,53,Changed mind,2026-04-23,Refunded,1190
+621,5274,51,Not as described,2026-01-25,Refunded,5490
+622,5285,6,Not as described,2026-04-30,Refunded,17710
+623,5302,37,Not as described,2026-02-14,Refunded,1290
+624,5303,82,Damaged in transit,2026-03-17,Refunded,570
+625,5307,108,Defective,2026-06-02,Refunded,1550
+626,5339,37,Not as described,2026-04-14,Refunded,2580
+627,5347,36,Changed mind,2026-06-16,Rejected,3560
+628,5384,40,Not as described,2026-05-30,Refunded,3250
+629,5389,25,Not as described,2026-03-22,Refunded,2550
+630,5392,8,Defective,2026-06-04,Refunded,13780
+631,5396,3,Changed mind,2026-04-30,Refunded,34450
+632,5400,43,Damaged in transit,2026-04-22,Refunded,400
+633,5408,43,Not as described,2026-01-22,Refunded,400
+634,5414,56,Not as described,2026-05-25,Refunded,880
+635,5415,58,Not as described,2026-06-11,Refunded,9520
+636,5424,114,Defective,2026-05-30,Refunded,740
+637,5430,39,Size/fit issue,2026-03-02,Refund Pending,13980
+638,5438,111,Changed mind,2026-06-28,Refunded,430
+639,5442,28,Size/fit issue,2026-06-19,Refunded,6480
+640,5452,107,Defective,2026-06-15,Rejected,3590
+641,5464,22,Not as described,2026-03-20,Refunded,2100
+642,5472,71,Damaged in transit,2026-04-08,Refunded,1950
+643,5475,46,Changed mind,2026-04-15,Refunded,1690
+644,5481,25,Size/fit issue,2026-05-31,Refunded,5100
+645,5482,8,Changed mind,2026-03-31,Refunded,27560
+646,5485,71,Changed mind,2026-04-19,Rejected,1950
+647,5499,106,Changed mind,2026-04-07,Rejected,2580
+648,5502,12,Defective,2026-04-11,Refunded,22230
+649,5505,31,Not as described,2026-05-10,Refund Pending,3430
+650,5512,26,Changed mind,2026-05-26,Refund Pending,2030
+651,5513,63,Wrong item,2026-04-07,Refunded,2650
+652,5514,45,Not as described,2026-06-14,Refund Pending,1470
+653,5524,35,Size/fit issue,2026-03-23,Refund Pending,2030
+654,5526,109,Defective,2026-03-18,Refund Pending,6140
+655,5543,46,Damaged in transit,2026-05-01,Refunded,1690
+656,5547,13,Defective,2026-03-12,Refunded,19060
+657,5557,26,Not as described,2026-03-26,Refunded,2030
+658,5569,34,Changed mind,2026-05-30,Refund Pending,2320
+659,5582,119,Size/fit issue,2026-02-02,Refunded,3460
+660,5598,117,Changed mind,2026-06-10,Refunded,2710
+661,5631,18,Defective,2026-05-30,Refunded,11170
+662,5640,2,Defective,2026-03-21,Refunded,33880
+663,5641,2,Not as described,2026-06-07,Refunded,33880
+664,5651,6,Not as described,2026-03-15,Refunded,35420
+665,5652,8,Changed mind,2026-05-20,Refunded,13780
+666,5666,11,Not as described,2026-02-24,Refunded,8070
+667,5669,46,Not as described,2026-06-29,Refunded,3380
+668,5688,107,Changed mind,2026-05-07,Refund Pending,3590
+669,5692,41,Not as described,2026-03-18,Rejected,900
+670,5712,20,Defective,2026-05-11,Refunded,28440
+671,5754,52,Damaged in transit,2026-02-18,Rejected,3490
+672,5761,34,Size/fit issue,2026-02-09,Refunded,2320
+673,5763,3,Changed mind,2026-03-28,Refund Pending,34450
+674,5769,39,Size/fit issue,2026-03-25,Refund Pending,4660
+675,5789,56,Damaged in transit,2026-02-23,Refunded,880
+676,5799,86,Wrong item,2026-03-31,Refunded,200
+677,5814,13,Not as described,2026-04-19,Refunded,19060
+678,5816,96,Damaged in transit,2026-04-25,Refund Pending,1080
+679,5820,110,Size/fit issue,2026-06-19,Refunded,4070
+680,5821,106,Defective,2026-05-05,Refunded,2580
+681,5822,36,Not as described,2026-03-02,Refunded,3560
+682,5825,1,Not as described,2026-02-04,Refunded,38810
+683,5844,59,Changed mind,2026-03-14,Refund Pending,7510
+684,5858,16,Not as described,2026-01-26,Refund Pending,60000
+685,5861,61,Damaged in transit,2026-05-04,Refunded,2820
+686,5862,35,Changed mind,2026-06-24,Refunded,2030
+687,5863,61,Damaged in transit,2026-04-13,Refunded,8460
+688,5864,31,Size/fit issue,2026-05-18,Refunded,3430
+689,5867,9,Not as described,2026-03-17,Refunded,2050
+690,5872,49,Damaged in transit,2026-02-19,Refunded,23520
+691,5878,59,Not as described,2026-06-19,Refunded,7510
+692,5881,117,Changed mind,2026-02-19,Refunded,2710
+693,5883,9,Defective,2026-05-31,Refunded,2050
+694,5888,112,Defective,2026-05-28,Refunded,14680
+695,5889,26,Size/fit issue,2026-02-08,Refunded,2030
+696,5894,40,Size/fit issue,2026-06-08,Refunded,6500
+697,5896,28,Not as described,2026-02-24,Rejected,6480
+698,5918,26,Changed mind,2026-03-12,Refunded,2030
+699,5919,21,Size/fit issue,2026-05-30,Rejected,3410
+700,5938,95,Wrong item,2026-02-07,Refunded,160
+701,5948,12,Not as described,2026-04-07,Refunded,22230
+702,5954,71,Changed mind,2026-02-28,Refunded,1950
+703,5957,39,Changed mind,2026-03-04,Rejected,13980
+704,5969,21,Not as described,2026-04-27,Refunded,6820
+705,5970,3,Changed mind,2026-04-22,Refunded,34450
+706,5997,38,Changed mind,2026-06-30,Refund Pending,2820

@@ -1,0 +1,1082 @@
+ticket_id,order_id,customer_id,issue_category,created_date,resolved_date,ticket_status
+1,8,778,Delayed order,2026-04-20,2026-04-21,Resolved
+2,14,55,Delayed order,2026-05-15,2026-05-19,Resolved
+3,24,532,Payment issue,2026-03-08,2026-03-10,Resolved
+4,26,1208,Order status inquiry,2026-05-18,2026-05-19,Resolved
+5,38,700,Refund delay,2026-04-07,2026-04-11,Resolved
+6,43,67,Delayed order,2026-05-28,2026-05-31,Resolved
+7,45,429,Cancellation / refund,2026-05-11,2026-05-12,Resolved
+8,49,455,Delayed order,2026-05-02,2026-05-06,Resolved
+9,76,356,Order status inquiry,2026-01-21,2026-01-22,Resolved
+10,80,1042,Cancellation / refund,2026-02-05,2026-02-10,Resolved
+11,87,295,Order status inquiry,2026-01-18,2026-01-19,Resolved
+12,91,275,Delayed order,2026-01-15,2026-01-19,Resolved
+13,92,40,Delayed order,2026-04-08,2026-04-11,Resolved
+14,95,644,Delayed order,2026-06-14,2026-06-16,Resolved
+15,97,806,Delayed order,2026-04-09,2026-04-13,Resolved
+16,98,582,Delayed order,2026-06-06,2026-06-08,Resolved
+17,102,1368,Order status inquiry,2026-04-06,2026-04-07,Resolved
+18,111,347,Delayed order,2026-02-09,2026-02-11,Resolved
+19,120,900,Delayed order,2026-05-03,2026-05-04,Resolved
+20,122,420,Delayed order,2026-02-07,2026-02-08,Resolved
+21,131,1202,Delayed order,2026-04-14,2026-04-18,Resolved
+22,133,44,Cancellation / refund,2026-03-13,2026-03-17,Resolved
+23,136,991,Delayed order,2026-05-05,2026-05-06,Resolved
+24,142,838,Refund delay,2026-04-05,2026-04-12,Resolved
+25,143,1310,Order status inquiry,2026-01-26,2026-01-27,Resolved
+26,146,1284,Order status inquiry,2026-05-04,2026-05-05,Resolved
+27,149,162,Cancellation / refund,2026-01-25,2026-01-30,Resolved
+28,154,1366,Order status inquiry,2026-02-21,2026-02-22,Resolved
+29,166,836,Delayed order,2026-02-23,2026-02-26,Resolved
+30,177,1174,Cancellation / refund,2026-05-15,2026-05-20,Resolved
+31,181,607,Payment issue,2026-02-01,2026-02-02,Resolved
+32,183,527,Cancellation / refund,2026-05-19,2026-05-24,Resolved
+33,184,133,Delayed order,2026-01-18,2026-01-22,Resolved
+34,191,549,Order status inquiry,2026-04-26,2026-04-27,Resolved
+35,193,323,Delayed order,2026-01-31,2026-02-03,Resolved
+36,197,785,Cancellation / refund,2026-06-18,2026-06-23,Resolved
+37,202,1009,Delayed order,2026-06-12,2026-06-13,Resolved
+38,213,106,Payment issue,2026-04-21,2026-04-24,Resolved
+39,225,681,Order status inquiry,2026-04-16,2026-04-17,Resolved
+40,230,1407,Cancellation / refund,2026-01-08,2026-01-09,Resolved
+41,233,891,Cancellation / refund,2026-02-10,2026-02-13,Resolved
+42,237,77,Cancellation / refund,2026-06-14,2026-06-18,Resolved
+43,250,1428,Delayed order,2026-06-29,2026-06-30,Resolved
+44,252,583,Delayed order,2026-04-01,2026-04-05,Resolved
+45,252,583,Refund delay,2026-04-09,2026-04-15,Resolved
+46,263,953,Cancellation / refund,2026-06-06,2026-06-08,Resolved
+47,271,238,Cancellation / refund,2026-01-14,2026-01-16,Resolved
+48,273,246,Delayed order,2026-02-01,2026-02-03,Resolved
+49,279,1,Refund delay,2026-05-02,2026-05-04,Resolved
+50,281,1081,Delayed order,2026-05-07,2026-05-09,Resolved
+51,283,522,Delayed order,2026-05-18,2026-05-21,Resolved
+52,287,583,Payment issue,2026-03-12,2026-03-13,Resolved
+53,301,1460,Delayed order,2026-03-05,2026-03-06,Resolved
+54,304,373,Cancellation / refund,2026-05-27,2026-05-29,Resolved
+55,305,582,Refund delay,2026-07-02,2026-07-05,Resolved
+56,325,519,Delayed order,2026-02-02,2026-02-03,Resolved
+57,338,504,Payment issue,2026-05-27,2026-05-29,Resolved
+58,341,776,Payment issue,2026-03-14,2026-03-17,Resolved
+59,348,537,Order status inquiry,2026-04-20,2026-04-21,Resolved
+60,349,433,Cancellation / refund,2026-02-02,2026-02-05,Resolved
+61,352,527,Refund delay,2026-06-02,2026-06-06,Resolved
+62,356,103,Order status inquiry,2026-04-27,2026-04-28,Resolved
+63,360,838,Delayed order,2026-06-17,2026-06-18,Resolved
+64,361,608,Order status inquiry,2026-05-02,2026-05-03,Resolved
+65,377,1269,Delayed order,2026-02-12,2026-02-13,Resolved
+66,384,1412,Delayed order,2026-04-23,2026-04-25,Resolved
+67,387,305,Order status inquiry,2026-04-13,2026-04-14,Resolved
+68,388,1406,Delayed order,2026-06-14,2026-06-18,Resolved
+69,395,288,Delayed order,2026-02-16,2026-02-19,Resolved
+70,396,265,Delayed order,2026-02-25,2026-02-26,Resolved
+71,405,698,Order status inquiry,2026-05-29,2026-05-30,Resolved
+72,413,450,Order status inquiry,2026-03-23,2026-03-24,Resolved
+73,428,1199,Payment issue,2026-05-09,2026-05-12,Resolved
+74,432,963,Cancellation / refund,2026-06-05,2026-06-08,Resolved
+75,433,48,Cancellation / refund,2026-03-14,2026-03-18,Resolved
+76,445,861,Cancellation / refund,2026-01-10,2026-01-15,Resolved
+77,451,574,Order status inquiry,2026-03-20,2026-03-21,Resolved
+78,466,150,Delayed order,2026-04-02,2026-04-03,Resolved
+79,467,784,Cancellation / refund,2026-02-19,2026-02-24,Resolved
+80,469,32,Order status inquiry,2026-03-13,2026-03-14,Resolved
+81,473,880,Delayed order,2026-05-16,2026-05-18,Resolved
+82,483,1006,Order status inquiry,2026-01-07,2026-01-08,Resolved
+83,484,641,Delayed order,2026-01-10,2026-01-11,Resolved
+84,487,1479,Delayed order,2026-04-21,2026-04-22,Resolved
+85,493,73,Cancellation / refund,2026-03-23,2026-03-28,Resolved
+86,500,534,Delayed order,2026-01-19,2026-01-20,Resolved
+87,527,575,Delayed order,2026-02-15,2026-02-18,Resolved
+88,531,1442,Delayed order,2026-05-19,2026-05-23,Resolved
+89,533,1386,Delayed order,2026-03-19,2026-03-23,Resolved
+90,534,545,Delayed order,2026-05-19,2026-05-21,Resolved
+91,536,607,Order status inquiry,2026-06-26,2026-06-27,Resolved
+92,546,1361,Delayed order,2026-03-22,2026-03-23,Resolved
+93,548,834,Order status inquiry,2026-04-07,2026-04-08,Resolved
+94,557,308,Delayed order,2026-03-18,2026-03-19,Resolved
+95,563,500,Delayed order,2026-03-19,2026-03-20,Resolved
+96,564,1225,Delayed order,2026-06-05,2026-06-09,Resolved
+97,565,1212,Cancellation / refund,2026-04-27,2026-04-28,Resolved
+98,576,253,Order status inquiry,2026-04-25,2026-04-26,Resolved
+99,577,289,Order status inquiry,2026-05-05,2026-05-06,Resolved
+100,581,551,Delayed order,2026-05-14,2026-05-17,Resolved
+101,587,605,Order status inquiry,2026-06-01,2026-06-02,Resolved
+102,591,95,Delayed order,2026-04-28,2026-05-01,Resolved
+103,598,1447,Delayed order,2026-06-16,2026-06-20,Resolved
+104,605,1463,Order status inquiry,2026-03-04,2026-03-05,Resolved
+105,612,1315,Delayed order,2026-06-25,2026-06-27,Resolved
+106,616,386,Refund delay,2026-04-11,2026-04-15,Resolved
+107,618,789,Delayed order,2026-03-30,2026-04-03,Resolved
+108,620,1384,Cancellation / refund,2026-03-30,2026-03-31,Resolved
+109,624,1294,Order status inquiry,2026-06-07,2026-06-08,Resolved
+110,634,499,Delayed order,2026-01-26,2026-01-30,Resolved
+111,638,1247,Delayed order,2026-02-23,2026-02-24,Resolved
+112,641,581,Cancellation / refund,2026-04-29,2026-05-04,Resolved
+113,651,872,Order status inquiry,2026-01-16,2026-01-17,Resolved
+114,652,652,Delayed order,2026-05-13,2026-05-17,Resolved
+115,657,884,Payment issue,2026-06-15,2026-06-16,Resolved
+116,671,894,Delayed order,2026-05-19,2026-05-21,Resolved
+117,676,22,Delayed order,2026-05-22,2026-05-25,Resolved
+118,679,91,Delayed order,2026-03-23,2026-03-24,Resolved
+119,686,154,Refund delay,2026-06-09,2026-06-11,Resolved
+120,704,226,Delayed order,2026-05-23,2026-05-24,Resolved
+121,710,884,Refund delay,2026-04-26,2026-05-01,Resolved
+122,711,1058,Delayed order,2026-05-07,2026-05-10,Resolved
+123,716,952,Order status inquiry,2026-04-14,2026-04-15,Resolved
+124,719,1316,Payment issue,2026-06-20,2026-06-23,Resolved
+125,727,37,Delayed order,2026-06-12,2026-06-15,Resolved
+126,728,922,Order status inquiry,2026-06-23,2026-06-24,Resolved
+127,735,1310,Order status inquiry,2026-03-28,2026-03-29,Resolved
+128,740,1415,Delayed order,2026-04-20,2026-04-22,Resolved
+129,741,1173,Delayed order,2026-05-10,2026-05-12,Resolved
+130,744,1153,Delayed order,2026-03-08,2026-03-10,Resolved
+131,749,200,Cancellation / refund,2026-03-23,2026-03-24,Resolved
+132,750,32,Delayed order,2026-05-03,2026-05-06,Resolved
+133,763,216,Delayed order,2026-04-01,2026-04-03,Resolved
+134,767,751,Delayed order,2026-05-05,2026-05-09,Resolved
+135,768,763,Delayed order,2026-03-24,2026-03-26,Resolved
+136,773,465,Delayed order,2026-04-30,2026-05-02,Resolved
+137,788,20,Order status inquiry,2026-04-06,2026-04-07,Resolved
+138,789,619,Delayed order,2026-06-12,2026-06-16,Resolved
+139,806,535,Cancellation / refund,2026-01-15,2026-01-17,Resolved
+140,820,1269,Delayed order,2026-06-25,2026-06-27,Resolved
+141,823,156,Order status inquiry,2026-05-07,2026-05-08,Resolved
+142,834,353,Cancellation / refund,2026-05-01,2026-05-06,Resolved
+143,835,683,Delayed order,2026-02-09,2026-02-12,Resolved
+144,842,1438,Cancellation / refund,2026-05-29,2026-05-30,Resolved
+145,848,1475,Delayed order,2026-03-15,2026-03-16,Resolved
+146,849,917,Cancellation / refund,2026-02-08,2026-02-13,Resolved
+147,850,119,Delayed order,2026-04-27,2026-05-01,Resolved
+148,858,1469,Delayed order,2026-04-29,2026-05-03,Resolved
+149,870,409,Delayed order,2026-03-29,2026-03-31,Resolved
+150,872,984,Order status inquiry,2026-02-04,2026-02-05,Resolved
+151,896,993,Delayed order,2026-05-07,2026-05-10,Resolved
+152,904,443,Delayed order,2026-06-11,2026-06-14,Resolved
+153,909,958,Delayed order,2026-04-24,2026-04-27,Resolved
+154,912,28,Delayed order,2026-05-26,2026-05-29,Resolved
+155,914,1180,Delayed order,2026-05-20,2026-05-24,Resolved
+156,922,120,Order status inquiry,2026-04-23,2026-04-24,Resolved
+157,932,879,Order status inquiry,2026-04-28,2026-04-29,Resolved
+158,942,933,Order status inquiry,2026-06-01,2026-06-02,Resolved
+159,944,988,Delayed order,2026-02-05,2026-02-09,Resolved
+160,954,968,Order status inquiry,2026-06-09,2026-06-10,Resolved
+161,957,1167,Order status inquiry,2026-05-05,2026-05-06,Resolved
+162,967,1066,Refund delay,2026-04-08,2026-04-11,Resolved
+163,969,416,Delayed order,2026-04-24,2026-04-28,Resolved
+164,984,865,Order status inquiry,2026-01-31,2026-02-01,Resolved
+165,985,1242,Delayed order,2026-02-16,2026-02-18,Resolved
+166,988,369,Cancellation / refund,2026-03-05,2026-03-10,Resolved
+167,997,1394,Delayed order,2026-06-04,2026-06-08,Resolved
+168,998,2,Delayed order,2026-05-03,2026-05-07,Resolved
+169,1000,396,Payment issue,2026-01-16,2026-01-18,Resolved
+170,1002,737,Refund delay,2026-05-08,2026-05-15,Resolved
+171,1006,1233,Delayed order,2026-03-13,2026-03-15,Resolved
+172,1009,1491,Delayed order,2026-02-24,2026-02-25,Resolved
+173,1011,926,Order status inquiry,2026-06-23,2026-06-24,Resolved
+174,1019,756,Order status inquiry,2026-02-03,2026-02-04,Resolved
+175,1026,205,Delayed order,2026-02-07,2026-02-11,Resolved
+176,1028,872,Cancellation / refund,2026-06-24,2026-06-25,Resolved
+177,1034,921,Delayed order,2026-02-28,2026-03-04,Resolved
+178,1035,226,Order status inquiry,2026-05-29,2026-05-30,Resolved
+179,1039,1249,Delayed order,2026-05-31,2026-06-03,Resolved
+180,1048,1314,Delayed order,2026-04-22,2026-04-23,Resolved
+181,1057,173,Cancellation / refund,2026-04-29,2026-05-01,Resolved
+182,1059,1250,Order status inquiry,2026-06-19,2026-06-20,Resolved
+183,1079,752,Order status inquiry,2026-01-10,2026-01-11,Resolved
+184,1083,1300,Delayed order,2026-03-31,2026-04-01,Resolved
+185,1088,1459,Delayed order,2026-02-14,2026-02-18,Resolved
+186,1099,1098,Delayed order,2026-04-27,2026-04-29,Resolved
+187,1119,898,Delayed order,2026-03-24,2026-03-26,Resolved
+188,1121,1421,Cancellation / refund,2026-04-11,2026-04-15,Resolved
+189,1122,169,Delayed order,2026-06-03,2026-06-07,Resolved
+190,1123,1389,Delayed order,2026-02-17,2026-02-20,Resolved
+191,1126,897,Cancellation / refund,2026-01-01,2026-01-04,Resolved
+192,1127,304,Cancellation / refund,2026-04-29,2026-05-04,Resolved
+193,1140,871,Delayed order,2026-06-14,2026-06-15,Resolved
+194,1142,583,Order status inquiry,2026-05-04,2026-05-05,Resolved
+195,1147,1451,Refund delay,2026-06-28,2026-07-04,Resolved
+196,1155,1175,Delayed order,2026-04-21,2026-04-25,Resolved
+197,1163,1102,Delayed order,2026-05-20,2026-05-22,Resolved
+198,1168,585,Delayed order,2026-06-05,2026-06-07,Resolved
+199,1181,312,Order status inquiry,2026-01-04,2026-01-05,Resolved
+200,1190,104,Delayed order,2026-04-13,2026-04-17,Resolved
+201,1205,656,Order status inquiry,2026-03-05,2026-03-06,Resolved
+202,1208,1176,Delayed order,2026-02-28,2026-03-03,Resolved
+203,1210,1495,Order status inquiry,2026-03-26,2026-03-27,Resolved
+204,1216,895,Cancellation / refund,2026-06-26,2026-07-01,Resolved
+205,1228,237,Delayed order,2026-04-25,2026-04-26,Resolved
+206,1231,1101,Delayed order,2026-04-05,2026-04-07,Resolved
+207,1232,185,Delayed order,2026-05-22,2026-05-23,Resolved
+208,1240,1390,Delayed order,2026-01-28,2026-01-30,Resolved
+209,1241,332,Order status inquiry,2026-06-02,2026-06-03,Resolved
+210,1245,575,Order status inquiry,2026-06-10,2026-06-11,Resolved
+211,1247,1440,Order status inquiry,2026-01-01,2026-01-02,Resolved
+212,1249,614,Delayed order,2026-01-23,2026-01-27,Resolved
+213,1254,1434,Delayed order,2026-05-24,2026-05-28,Resolved
+214,1254,1434,Refund delay,2026-05-29,2026-05-31,Resolved
+215,1258,557,Delayed order,2026-04-16,2026-04-20,Resolved
+216,1267,1034,Order status inquiry,2026-02-10,2026-02-11,Resolved
+217,1270,588,Order status inquiry,2026-04-01,2026-04-02,Resolved
+218,1272,1187,Cancellation / refund,2026-04-10,2026-04-14,Resolved
+219,1273,33,Delayed order,2026-02-14,2026-02-15,Resolved
+220,1282,1127,Delayed order,2026-06-03,2026-06-05,Resolved
+221,1283,122,Delayed order,2026-06-30,2026-07-01,Resolved
+222,1284,148,Delayed order,2026-05-29,2026-05-30,Resolved
+223,1286,1128,Cancellation / refund,2026-06-06,2026-06-09,Resolved
+224,1289,1174,Order status inquiry,2026-05-03,2026-05-04,Resolved
+225,1294,578,Delayed order,2026-02-16,2026-02-20,Resolved
+226,1306,189,Delayed order,2026-01-27,2026-01-29,Resolved
+227,1307,1473,Delayed order,2026-04-07,2026-04-09,Resolved
+228,1321,550,Delayed order,2026-05-09,2026-05-10,Resolved
+229,1322,835,Payment issue,2026-04-18,2026-04-19,Resolved
+230,1332,935,Delayed order,2026-02-11,2026-02-15,Resolved
+231,1338,1468,Delayed order,2026-03-28,2026-03-31,Resolved
+232,1346,1425,Refund delay,2026-06-28,2026-07-03,Resolved
+233,1349,493,Refund delay,2026-04-28,2026-05-04,Resolved
+234,1357,1056,Delayed order,2026-04-14,2026-04-17,Resolved
+235,1357,1056,Refund delay,2026-04-20,2026-04-23,Resolved
+236,1360,967,Delayed order,2026-05-25,2026-05-29,Resolved
+237,1370,1226,Delayed order,2026-03-08,2026-03-10,Resolved
+238,1375,239,Delayed order,2026-03-30,2026-04-02,Resolved
+239,1385,543,Delayed order,2026-05-07,2026-05-11,Resolved
+240,1388,707,Delayed order,2026-04-03,2026-04-04,Resolved
+241,1389,357,Delayed order,2026-04-13,2026-04-17,Resolved
+242,1399,1212,Delayed order,2026-04-26,2026-04-27,Resolved
+243,1423,1106,Delayed order,2026-03-19,2026-03-22,Resolved
+244,1425,105,Cancellation / refund,2026-01-24,2026-01-25,Resolved
+245,1437,489,Delayed order,2026-06-06,2026-06-07,Resolved
+246,1438,443,Cancellation / refund,2026-05-06,2026-05-07,Resolved
+247,1442,791,Delayed order,2026-03-11,2026-03-15,Resolved
+248,1445,20,Delayed order,2026-05-19,2026-05-22,Resolved
+249,1451,1280,Order status inquiry,2026-04-11,2026-04-12,Resolved
+250,1459,925,Order status inquiry,2026-06-27,2026-06-28,Resolved
+251,1467,786,Delayed order,2026-04-14,2026-04-17,Resolved
+252,1469,83,Order status inquiry,2026-05-23,2026-05-24,Resolved
+253,1470,1239,Payment issue,2026-03-13,2026-03-16,Resolved
+254,1481,1113,Order status inquiry,2026-01-24,2026-01-25,Resolved
+255,1484,1017,Order status inquiry,2026-04-20,2026-04-21,Resolved
+256,1497,135,Delayed order,2026-01-12,2026-01-15,Resolved
+257,1503,677,Delayed order,2026-04-13,2026-04-16,Resolved
+258,1508,327,Delayed order,2026-02-07,2026-02-10,Resolved
+259,1510,1090,Delayed order,2026-03-28,2026-03-30,Resolved
+260,1513,39,Delayed order,2026-03-16,2026-03-20,Resolved
+261,1515,1412,Order status inquiry,2026-06-04,2026-06-05,Resolved
+262,1516,1094,Order status inquiry,2026-03-13,2026-03-14,Resolved
+263,1532,1431,Delayed order,2026-03-02,2026-03-05,Resolved
+264,1542,273,Delayed order,2026-02-13,2026-02-15,Resolved
+265,1544,356,Delayed order,2026-06-15,2026-06-19,Resolved
+266,1548,1421,Delayed order,2026-06-01,2026-06-04,Resolved
+267,1549,1238,Delayed order,2026-05-09,2026-05-10,Resolved
+268,1551,592,Delayed order,2026-05-20,2026-05-22,Resolved
+269,1554,326,Delayed order,2026-04-01,2026-04-03,Resolved
+270,1555,1323,Delayed order,2026-04-10,2026-04-12,Resolved
+271,1558,839,Refund delay,2026-03-22,2026-03-29,Resolved
+272,1567,405,Delayed order,2026-02-27,2026-03-02,Resolved
+273,1575,1126,Delayed order,2026-06-02,2026-06-03,Resolved
+274,1608,979,Delayed order,2026-02-13,2026-02-17,Resolved
+275,1628,1326,Order status inquiry,2026-06-21,2026-06-22,Resolved
+276,1637,333,Delayed order,2026-04-11,2026-04-13,Resolved
+277,1646,146,Delayed order,2026-05-25,2026-05-28,Resolved
+278,1652,1480,Delayed order,2026-02-14,2026-02-15,Resolved
+279,1655,988,Delayed order,2026-03-31,2026-04-04,Resolved
+280,1661,76,Order status inquiry,2026-01-27,2026-01-28,Resolved
+281,1674,234,Payment issue,2026-04-27,2026-04-28,Resolved
+282,1688,1308,Order status inquiry,2026-06-03,2026-06-04,Resolved
+283,1695,820,Order status inquiry,2026-01-16,2026-01-17,Resolved
+284,1702,275,Payment issue,2026-04-22,2026-04-25,Resolved
+285,1703,878,Order status inquiry,2026-02-22,2026-02-23,Resolved
+286,1710,1258,Order status inquiry,2026-02-05,2026-02-06,Resolved
+287,1716,61,Order status inquiry,2026-03-10,2026-03-11,Resolved
+288,1720,963,Delayed order,2026-02-02,2026-02-03,Resolved
+289,1726,17,Refund delay,2026-05-21,2026-05-26,Resolved
+290,1727,1007,Delayed order,2026-04-22,2026-04-25,Resolved
+291,1745,1180,Delayed order,2026-05-01,2026-05-03,Resolved
+292,1748,794,Refund delay,2026-02-11,2026-02-18,Resolved
+293,1750,201,Order status inquiry,2026-02-02,2026-02-03,Resolved
+294,1756,1279,Delayed order,2026-06-06,2026-06-09,Resolved
+295,1767,1051,Payment issue,2026-05-31,2026-06-01,Resolved
+296,1774,645,Delayed order,2026-03-30,2026-04-03,Resolved
+297,1777,1149,Order status inquiry,2026-04-17,2026-04-18,Resolved
+298,1782,829,Delayed order,2026-04-17,2026-04-18,Resolved
+299,1783,314,Refund delay,2026-02-16,2026-02-23,Resolved
+300,1786,1485,Delayed order,2026-04-14,2026-04-18,Resolved
+301,1787,1436,Delayed order,2026-02-02,2026-02-06,Resolved
+302,1790,261,Order status inquiry,2026-06-18,2026-06-19,Resolved
+303,1795,1044,Cancellation / refund,2026-04-03,2026-04-05,Resolved
+304,1797,918,Order status inquiry,2026-05-22,2026-05-23,Resolved
+305,1805,732,Delayed order,2026-02-15,2026-02-19,Resolved
+306,1816,820,Order status inquiry,2026-03-05,2026-03-06,Resolved
+307,1833,492,Cancellation / refund,2026-05-03,2026-05-07,Resolved
+308,1837,773,Delayed order,2026-01-15,2026-01-17,Resolved
+309,1838,766,Order status inquiry,2026-06-01,2026-06-02,Resolved
+310,1840,959,Cancellation / refund,2026-06-03,2026-06-05,Resolved
+311,1844,963,Payment issue,2026-05-26,2026-05-27,Resolved
+312,1845,1163,Delayed order,2026-04-08,2026-04-12,Resolved
+313,1846,818,Delayed order,2026-05-31,2026-06-01,Resolved
+314,1852,77,Order status inquiry,2026-06-10,2026-06-11,Resolved
+315,1853,52,Cancellation / refund,2026-06-21,2026-06-24,Resolved
+316,1859,1230,Order status inquiry,2026-06-24,2026-06-25,Resolved
+317,1862,1419,Payment issue,2026-03-31,2026-04-01,Resolved
+318,1863,498,Delayed order,2026-04-24,2026-04-26,Resolved
+319,1871,910,Delayed order,2026-01-17,2026-01-18,Resolved
+320,1877,503,Payment issue,2026-01-22,2026-01-25,Resolved
+321,1878,858,Cancellation / refund,2026-03-17,2026-03-22,Resolved
+322,1888,1164,Delayed order,2026-04-23,2026-04-24,Resolved
+323,1893,1069,Delayed order,2026-05-20,2026-05-21,Resolved
+324,1895,287,Delayed order,2026-03-29,2026-03-31,Resolved
+325,1902,312,Delayed order,2026-03-13,2026-03-16,Resolved
+326,1915,173,Delayed order,2026-06-12,2026-06-13,Resolved
+327,1919,1336,Order status inquiry,2026-05-30,2026-05-31,Resolved
+328,1932,878,Delayed order,2026-06-13,2026-06-15,Resolved
+329,1939,1421,Cancellation / refund,2026-01-23,2026-01-25,Resolved
+330,1945,441,Delayed order,2026-02-06,2026-02-08,Resolved
+331,1947,1437,Cancellation / refund,2026-02-19,2026-02-24,Resolved
+332,1950,162,Delayed order,2026-02-22,2026-02-24,Resolved
+333,1951,1364,Payment issue,2026-04-10,2026-04-13,Resolved
+334,1954,66,Delayed order,2026-03-20,2026-03-23,Resolved
+335,1955,284,Cancellation / refund,2026-05-06,2026-05-07,Resolved
+336,1957,238,Order status inquiry,2026-03-16,2026-03-17,Resolved
+337,1960,1177,Delayed order,2026-05-06,2026-05-10,Resolved
+338,1969,359,Cancellation / refund,2026-04-15,2026-04-16,Resolved
+339,1981,709,Delayed order,2026-01-25,2026-01-27,Resolved
+340,1986,653,Delayed order,2026-05-18,2026-05-19,Resolved
+341,1992,798,Cancellation / refund,2026-06-17,2026-06-22,Resolved
+342,1995,760,Delayed order,2026-04-08,2026-04-10,Resolved
+343,1997,800,Delayed order,2026-03-06,2026-03-08,Resolved
+344,1999,1232,Order status inquiry,2026-03-11,2026-03-12,Resolved
+345,2002,1265,Delayed order,2026-05-04,2026-05-05,Resolved
+346,2003,213,Delayed order,2026-04-10,2026-04-12,Resolved
+347,2011,1332,Delayed order,2026-03-18,2026-03-22,Resolved
+348,2015,174,Delayed order,2026-06-09,2026-06-10,Resolved
+349,2016,1323,Payment issue,2026-06-18,2026-06-20,Resolved
+350,2027,201,Delayed order,2026-04-20,2026-04-21,Resolved
+351,2029,1398,Delayed order,2026-04-30,2026-05-02,Resolved
+352,2033,752,Delayed order,2026-04-28,2026-04-30,Resolved
+353,2046,1034,Refund delay,2026-04-25,2026-04-28,Resolved
+354,2047,1124,Delayed order,2026-04-26,2026-04-28,Resolved
+355,2062,997,Delayed order,2026-04-01,2026-04-05,Resolved
+356,2063,532,Order status inquiry,2026-04-23,2026-04-24,Resolved
+357,2072,787,Delayed order,2026-06-22,2026-06-25,Resolved
+358,2074,423,Delayed order,2026-03-19,2026-03-20,Resolved
+359,2075,347,Delayed order,2026-02-02,2026-02-06,Resolved
+360,2079,1430,Delayed order,2026-03-31,2026-04-04,Resolved
+361,2081,411,Delayed order,2026-03-01,2026-03-05,Resolved
+362,2087,721,Order status inquiry,2026-06-22,2026-06-23,Resolved
+363,2090,139,Delayed order,2026-04-21,2026-04-22,Resolved
+364,2096,388,Delayed order,2026-04-07,2026-04-10,Resolved
+365,2097,285,Delayed order,2026-02-19,2026-02-21,Resolved
+366,2104,560,Delayed order,2026-05-25,2026-05-28,Resolved
+367,2105,341,Payment issue,2026-06-10,2026-06-13,Resolved
+368,2106,1085,Delayed order,2026-02-17,2026-02-21,Resolved
+369,2107,1379,Cancellation / refund,2026-05-16,2026-05-19,Resolved
+370,2115,256,Delayed order,2026-05-18,2026-05-22,Resolved
+371,2119,439,Delayed order,2026-04-10,2026-04-14,Resolved
+372,2121,569,Delayed order,2026-01-19,2026-01-23,Resolved
+373,2125,1031,Order status inquiry,2026-06-12,2026-06-13,Resolved
+374,2126,1390,Delayed order,2026-01-26,2026-01-30,Resolved
+375,2129,75,Payment issue,2026-06-12,2026-06-15,Resolved
+376,2132,1158,Cancellation / refund,2026-04-10,2026-04-11,Resolved
+377,2138,454,Cancellation / refund,2026-04-07,2026-04-12,Resolved
+378,2154,1204,Cancellation / refund,2026-03-24,2026-03-27,Resolved
+379,2173,1155,Delayed order,2026-03-05,2026-03-09,Resolved
+380,2183,619,Delayed order,2026-01-28,2026-02-01,Resolved
+381,2184,655,Delayed order,2026-03-15,2026-03-16,Resolved
+382,2199,747,Delayed order,2026-04-12,2026-04-15,Resolved
+383,2200,1209,Delayed order,2026-05-03,2026-05-04,Resolved
+384,2213,151,Refund delay,2026-04-10,2026-04-15,Resolved
+385,2215,1025,Delayed order,2026-03-06,2026-03-08,Resolved
+386,2216,172,Order status inquiry,2026-05-16,2026-05-17,Resolved
+387,2221,1169,Order status inquiry,2026-04-15,2026-04-16,Resolved
+388,2228,1225,Payment issue,2026-04-07,2026-04-08,Resolved
+389,2230,967,Payment issue,2026-06-22,2026-06-23,Resolved
+390,2236,747,Delayed order,2026-05-13,2026-05-16,Resolved
+391,2241,695,Delayed order,2026-04-10,2026-04-12,Resolved
+392,2247,800,Delayed order,2026-04-26,2026-04-30,Resolved
+393,2248,600,Delayed order,2026-02-11,2026-02-13,Resolved
+394,2249,1225,Cancellation / refund,2026-02-11,2026-02-14,Resolved
+395,2251,794,Delayed order,2026-05-31,2026-06-03,Resolved
+396,2254,675,Delayed order,2026-05-09,2026-05-13,Resolved
+397,2257,1410,Order status inquiry,2026-05-25,2026-05-26,Resolved
+398,2258,1322,Delayed order,2026-04-21,2026-04-24,Resolved
+399,2259,516,Order status inquiry,2026-04-17,2026-04-18,Resolved
+400,2263,998,Cancellation / refund,2026-04-06,2026-04-10,Resolved
+401,2265,1295,Delayed order,2026-02-14,2026-02-18,Resolved
+402,2266,751,Order status inquiry,2026-05-24,2026-05-25,Resolved
+403,2277,523,Delayed order,2026-03-17,2026-03-21,Resolved
+404,2278,727,Order status inquiry,2026-01-18,2026-01-19,Resolved
+405,2284,671,Delayed order,2026-06-23,2026-06-25,Resolved
+406,2289,55,Order status inquiry,2026-04-23,2026-04-24,Resolved
+407,2297,1207,Order status inquiry,2026-01-21,2026-01-22,Resolved
+408,2302,368,Order status inquiry,2026-05-18,2026-05-19,Resolved
+409,2305,1265,Order status inquiry,2026-06-09,2026-06-10,Resolved
+410,2321,694,Delayed order,2026-03-04,2026-03-07,Resolved
+411,2326,856,Delayed order,2026-03-31,2026-04-02,Resolved
+412,2346,1404,Delayed order,2026-02-02,2026-02-03,Resolved
+413,2349,1340,Payment issue,2026-02-01,2026-02-02,Resolved
+414,2354,229,Order status inquiry,2026-06-15,2026-06-16,Resolved
+415,2357,91,Cancellation / refund,2026-04-01,2026-04-05,Resolved
+416,2377,652,Delayed order,2026-04-05,2026-04-06,Resolved
+417,2382,1036,Delayed order,2026-04-18,2026-04-19,Resolved
+418,2391,981,Delayed order,2026-04-01,2026-04-04,Resolved
+419,2393,417,Refund delay,2026-05-15,2026-05-17,Resolved
+420,2394,1006,Delayed order,2026-06-02,2026-06-04,Resolved
+421,2395,919,Cancellation / refund,2026-02-06,2026-02-09,Resolved
+422,2399,768,Delayed order,2026-06-11,2026-06-13,Resolved
+423,2403,50,Delayed order,2026-01-28,2026-01-31,Resolved
+424,2405,929,Delayed order,2026-06-21,2026-06-25,Resolved
+425,2406,1159,Delayed order,2026-02-01,2026-02-03,Resolved
+426,2409,281,Refund delay,2026-06-20,2026-06-27,Resolved
+427,2413,1154,Delayed order,2026-05-13,2026-05-15,Resolved
+428,2430,332,Delayed order,2026-03-21,2026-03-23,Resolved
+429,2434,23,Delayed order,2026-06-16,2026-06-20,Resolved
+430,2442,132,Delayed order,2026-01-25,2026-01-29,Resolved
+431,2446,1016,Order status inquiry,2026-02-28,2026-03-01,Resolved
+432,2453,608,Order status inquiry,2026-02-25,2026-02-26,Resolved
+433,2454,144,Delayed order,2026-04-22,2026-04-23,Resolved
+434,2466,1391,Delayed order,2026-06-13,2026-06-15,Resolved
+435,2477,460,Refund delay,2026-03-27,2026-04-03,Resolved
+436,2481,2,Delayed order,2026-02-02,2026-02-03,Resolved
+437,2482,525,Order status inquiry,2026-06-20,2026-06-21,Resolved
+438,2485,1491,Delayed order,2026-04-25,2026-04-28,Resolved
+439,2488,731,Delayed order,2026-05-08,2026-05-10,Resolved
+440,2490,588,Order status inquiry,2026-02-28,2026-03-01,Resolved
+441,2491,427,Delayed order,2026-05-23,2026-05-25,Resolved
+442,2499,400,Payment issue,2026-01-27,2026-01-29,Resolved
+443,2500,656,Cancellation / refund,2026-06-25,2026-06-28,Resolved
+444,2506,727,Delayed order,2026-04-28,2026-04-30,Resolved
+445,2510,885,Delayed order,2026-03-24,2026-03-26,Resolved
+446,2513,1484,Delayed order,2026-02-18,2026-02-20,Resolved
+447,2517,1460,Delayed order,2026-03-12,2026-03-16,Resolved
+448,2520,540,Delayed order,2026-04-14,2026-04-18,Resolved
+449,2540,645,Delayed order,2026-03-21,2026-03-23,Resolved
+450,2551,89,Cancellation / refund,2026-06-11,2026-06-16,Resolved
+451,2553,117,Refund delay,2026-04-01,2026-04-08,Resolved
+452,2560,1403,Delayed order,2026-03-08,2026-03-11,Resolved
+453,2568,529,Payment issue,2026-06-21,2026-06-23,Resolved
+454,2575,832,Delayed order,2026-06-25,2026-06-26,Resolved
+455,2578,384,Delayed order,2026-06-21,2026-06-24,Resolved
+456,2591,136,Delayed order,2026-05-19,2026-05-23,Resolved
+457,2593,202,Cancellation / refund,2026-04-11,2026-04-13,Resolved
+458,2598,74,Delayed order,2026-02-13,2026-02-15,Resolved
+459,2602,1376,Delayed order,2026-04-16,2026-04-17,Resolved
+460,2605,831,Order status inquiry,2026-02-21,2026-02-22,Resolved
+461,2614,1452,Delayed order,2026-01-28,2026-02-01,Resolved
+462,2615,1370,Payment issue,2026-05-08,2026-05-11,Resolved
+463,2617,738,Delayed order,2026-02-21,2026-02-23,Resolved
+464,2628,69,Delayed order,2026-01-17,2026-01-18,Resolved
+465,2631,283,Delayed order,2026-06-22,2026-06-24,Resolved
+466,2632,903,Delayed order,2026-06-03,2026-06-06,Resolved
+467,2636,945,Delayed order,2026-02-21,2026-02-25,Resolved
+468,2643,966,Delayed order,2026-01-25,2026-01-29,Resolved
+469,2645,994,Cancellation / refund,2026-05-09,2026-05-12,Resolved
+470,2650,1097,Delayed order,2026-06-08,2026-06-11,Resolved
+471,2652,79,Refund delay,2026-05-03,2026-05-06,Resolved
+472,2654,1326,Cancellation / refund,2026-04-05,2026-04-10,Resolved
+473,2656,711,Order status inquiry,2026-06-21,2026-06-22,Resolved
+474,2663,67,Order status inquiry,2026-05-13,2026-05-14,Resolved
+475,2666,1101,Delayed order,2026-04-21,2026-04-24,Resolved
+476,2669,569,Delayed order,2026-03-03,2026-03-05,Resolved
+477,2676,1063,Cancellation / refund,2026-02-01,2026-02-05,Resolved
+478,2677,1273,Order status inquiry,2026-02-28,2026-03-01,Resolved
+479,2679,17,Order status inquiry,2026-06-19,2026-06-20,Resolved
+480,2681,166,Order status inquiry,2026-02-12,2026-02-13,Resolved
+481,2685,732,Delayed order,2026-04-12,2026-04-14,Resolved
+482,2691,955,Cancellation / refund,2026-05-27,2026-06-01,Resolved
+483,2697,588,Delayed order,2026-04-21,2026-04-24,Resolved
+484,2701,706,Order status inquiry,2026-05-01,2026-05-02,Resolved
+485,2704,1176,Delayed order,2026-05-11,2026-05-15,Resolved
+486,2713,559,Delayed order,2026-03-04,2026-03-08,Resolved
+487,2727,984,Delayed order,2026-02-05,2026-02-06,Resolved
+488,2744,1343,Order status inquiry,2026-06-16,2026-06-17,Resolved
+489,2750,1266,Delayed order,2026-05-01,2026-05-04,Resolved
+490,2752,130,Cancellation / refund,2026-04-27,2026-05-01,Resolved
+491,2755,1491,Order status inquiry,2026-06-30,2026-07-01,Resolved
+492,2761,285,Delayed order,2026-01-18,2026-01-21,Resolved
+493,2776,1307,Order status inquiry,2026-04-22,2026-04-23,Resolved
+494,2780,1369,Delayed order,2026-04-02,2026-04-03,Resolved
+495,2789,409,Delayed order,2026-03-29,2026-04-02,Resolved
+496,2794,278,Delayed order,2026-01-22,2026-01-25,Resolved
+497,2801,222,Delayed order,2026-06-08,2026-06-10,Resolved
+498,2802,985,Order status inquiry,2026-01-05,2026-01-06,Resolved
+499,2803,1410,Order status inquiry,2026-02-02,2026-02-03,Resolved
+500,2815,184,Delayed order,2026-03-20,2026-03-23,Resolved
+501,2818,991,Payment issue,2026-02-17,2026-02-20,Resolved
+502,2834,804,Order status inquiry,2026-03-19,2026-03-20,Resolved
+503,2841,1337,Delayed order,2026-02-10,2026-02-13,Resolved
+504,2842,927,Delayed order,2026-03-03,2026-03-05,Resolved
+505,2847,1375,Order status inquiry,2026-05-26,2026-05-27,Resolved
+506,2851,1374,Delayed order,2026-02-21,2026-02-22,Resolved
+507,2858,1435,Order status inquiry,2026-03-26,2026-03-27,Resolved
+508,2866,286,Delayed order,2026-03-22,2026-03-23,Resolved
+509,2872,1380,Delayed order,2026-02-07,2026-02-09,Resolved
+510,2909,464,Order status inquiry,2026-02-06,2026-02-07,Resolved
+511,2911,97,Delayed order,2026-02-08,2026-02-11,Resolved
+512,2916,528,Delayed order,2026-06-14,2026-06-16,Resolved
+513,2918,131,Delayed order,2026-03-09,2026-03-12,Resolved
+514,2929,178,Delayed order,2026-04-01,2026-04-05,Resolved
+515,2931,1457,Payment issue,2026-02-23,2026-02-24,Resolved
+516,2937,367,Cancellation / refund,2026-01-24,2026-01-28,Resolved
+517,2938,871,Delayed order,2026-03-17,2026-03-18,Resolved
+518,2939,987,Order status inquiry,2026-03-03,2026-03-04,Resolved
+519,2940,1211,Order status inquiry,2026-03-31,2026-04-01,Resolved
+520,2946,285,Payment issue,2026-02-28,2026-03-03,Resolved
+521,2950,1195,Delayed order,2026-03-21,2026-03-24,Resolved
+522,2957,215,Delayed order,2026-04-01,2026-04-04,Resolved
+523,2959,680,Order status inquiry,2026-06-26,2026-06-27,Resolved
+524,2961,717,Order status inquiry,2026-03-05,2026-03-06,Resolved
+525,2974,1460,Delayed order,2026-04-01,2026-04-05,Resolved
+526,2977,1221,Delayed order,2026-06-21,2026-06-22,Resolved
+527,2987,972,Order status inquiry,2026-02-25,2026-02-26,Resolved
+528,2988,87,Payment issue,2026-04-20,2026-04-23,Resolved
+529,2990,1376,Payment issue,2026-04-03,2026-04-04,Resolved
+530,2999,1123,Delayed order,2026-06-11,2026-06-15,Resolved
+531,3005,411,Delayed order,2026-06-05,2026-06-08,Resolved
+532,3006,1240,Delayed order,2026-05-08,2026-05-11,Resolved
+533,3018,657,Delayed order,2026-04-03,2026-04-06,Resolved
+534,3019,1147,Delayed order,2026-01-27,2026-01-28,Resolved
+535,3025,609,Delayed order,2026-02-27,2026-03-01,Resolved
+536,3031,738,Order status inquiry,2026-05-19,2026-05-20,Resolved
+537,3034,776,Payment issue,2026-06-15,2026-06-16,Resolved
+538,3039,147,Delayed order,2026-07-01,2026-07-04,Resolved
+539,3041,532,Delayed order,2026-03-20,2026-03-23,Resolved
+540,3047,307,Delayed order,2026-06-17,2026-06-20,Resolved
+541,3049,81,Delayed order,2026-05-06,2026-05-07,Resolved
+542,3052,177,Order status inquiry,2026-05-09,2026-05-10,Resolved
+543,3054,1324,Refund delay,2026-06-06,2026-06-12,Resolved
+544,3056,1248,Delayed order,2026-05-18,2026-05-21,Resolved
+545,3059,949,Delayed order,2026-01-12,2026-01-15,Resolved
+546,3062,63,Delayed order,2026-04-30,2026-05-01,Resolved
+547,3082,66,Order status inquiry,2026-06-01,2026-06-02,Resolved
+548,3089,180,Cancellation / refund,2026-03-24,2026-03-26,Resolved
+549,3094,323,Order status inquiry,2026-02-09,2026-02-10,Resolved
+550,3098,1028,Delayed order,2026-04-03,2026-04-06,Resolved
+551,3112,431,Delayed order,2026-04-23,2026-04-25,Resolved
+552,3115,1415,Cancellation / refund,2026-05-12,2026-05-17,Resolved
+553,3116,188,Delayed order,2026-01-19,2026-01-22,Resolved
+554,3118,711,Refund delay,2026-06-16,2026-06-21,Resolved
+555,3128,869,Delayed order,2026-02-28,2026-03-04,Resolved
+556,3134,1064,Delayed order,2026-01-23,2026-01-27,Resolved
+557,3137,976,Delayed order,2026-04-23,2026-04-25,Resolved
+558,3141,644,Order status inquiry,2026-02-17,2026-02-18,Resolved
+559,3148,1112,Delayed order,2026-05-06,2026-05-07,Resolved
+560,3150,1022,Order status inquiry,2026-05-25,2026-05-26,Resolved
+561,3157,508,Refund delay,2026-04-12,2026-04-19,Resolved
+562,3172,1346,Refund delay,2026-02-09,2026-02-15,Resolved
+563,3175,991,Delayed order,2026-01-30,2026-02-03,Resolved
+564,3179,1004,Refund delay,2026-04-01,2026-04-06,Resolved
+565,3200,638,Delayed order,2026-03-26,2026-03-30,Resolved
+566,3204,1484,Delayed order,2026-05-24,2026-05-25,Resolved
+567,3210,1253,Refund delay,2026-02-08,2026-02-13,Resolved
+568,3214,1355,Delayed order,2026-04-15,2026-04-16,Resolved
+569,3226,726,Delayed order,2026-04-21,2026-04-25,Resolved
+570,3229,431,Cancellation / refund,2026-03-12,2026-03-16,Resolved
+571,3245,363,Delayed order,2026-05-04,2026-05-07,Resolved
+572,3247,611,Delayed order,2026-03-30,2026-04-02,Resolved
+573,3249,214,Cancellation / refund,2026-01-13,2026-01-18,Resolved
+574,3255,924,Cancellation / refund,2026-01-29,2026-02-02,Resolved
+575,3263,766,Delayed order,2026-02-28,2026-03-04,Resolved
+576,3265,638,Cancellation / refund,2026-04-11,2026-04-15,Resolved
+577,3276,1480,Delayed order,2026-03-09,2026-03-13,Resolved
+578,3286,487,Order status inquiry,2026-06-07,2026-06-08,Resolved
+579,3291,947,Payment issue,2026-02-17,2026-02-18,Resolved
+580,3305,483,Delayed order,2026-04-24,2026-04-28,Resolved
+581,3316,1174,Delayed order,2026-03-30,2026-04-02,Resolved
+582,3322,920,Cancellation / refund,2026-06-06,2026-06-10,Resolved
+583,3323,1275,Refund delay,2026-07-01,2026-07-07,Resolved
+584,3334,807,Delayed order,2026-03-25,2026-03-29,Resolved
+585,3338,71,Cancellation / refund,2026-06-12,2026-06-14,Resolved
+586,3347,1177,Cancellation / refund,2026-05-02,2026-05-06,Resolved
+587,3349,91,Delayed order,2026-04-06,2026-04-09,Resolved
+588,3352,1202,Order status inquiry,2026-03-07,2026-03-08,Resolved
+589,3357,909,Delayed order,2026-02-04,2026-02-07,Resolved
+590,3358,1174,Payment issue,2026-03-05,2026-03-06,Resolved
+591,3359,825,Order status inquiry,2026-04-05,2026-04-06,Resolved
+592,3366,754,Order status inquiry,2026-04-06,2026-04-07,Resolved
+593,3387,794,Cancellation / refund,2026-03-28,2026-03-31,Resolved
+594,3388,976,Delayed order,2026-05-29,2026-05-31,Resolved
+595,3389,641,Delayed order,2026-02-22,2026-02-24,Resolved
+596,3390,738,Order status inquiry,2026-03-24,2026-03-25,Resolved
+597,3397,949,Delayed order,2026-03-29,2026-03-30,Resolved
+598,3407,1192,Delayed order,2026-06-09,2026-06-11,Resolved
+599,3410,1083,Delayed order,2026-02-20,2026-02-22,Resolved
+600,3414,313,Delayed order,2026-03-20,2026-03-21,Resolved
+601,3418,295,Delayed order,2026-03-09,2026-03-12,Resolved
+602,3419,64,Delayed order,2026-03-01,2026-03-04,Resolved
+603,3426,384,Order status inquiry,2026-02-27,2026-02-28,Resolved
+604,3428,558,Refund delay,2026-05-31,2026-06-04,Resolved
+605,3436,810,Payment issue,2026-01-21,2026-01-24,Resolved
+606,3438,95,Delayed order,2026-03-01,2026-03-04,Resolved
+607,3439,762,Delayed order,2026-02-17,2026-02-18,Resolved
+608,3445,1086,Delayed order,2026-04-19,2026-04-23,Resolved
+609,3448,1144,Order status inquiry,2026-01-16,2026-01-17,Resolved
+610,3455,1137,Order status inquiry,2026-01-30,2026-01-31,Resolved
+611,3459,1499,Delayed order,2026-04-10,2026-04-11,Resolved
+612,3460,782,Delayed order,2026-03-22,2026-03-25,Resolved
+613,3461,360,Delayed order,2026-03-22,2026-03-23,Resolved
+614,3487,467,Refund delay,2026-05-04,2026-05-11,Resolved
+615,3491,1396,Delayed order,2026-03-10,2026-03-14,Resolved
+616,3504,1002,Delayed order,2026-03-10,2026-03-12,Resolved
+617,3510,722,Delayed order,2026-01-23,2026-01-25,Resolved
+618,3513,156,Cancellation / refund,2026-02-01,2026-02-03,Resolved
+619,3521,1011,Delayed order,2026-05-25,2026-05-26,Resolved
+620,3522,763,Delayed order,2026-01-29,2026-01-30,Resolved
+621,3542,1493,Delayed order,2026-04-29,2026-04-30,Resolved
+622,3543,642,Delayed order,2026-04-16,2026-04-18,Resolved
+623,3546,176,Cancellation / refund,2026-02-27,2026-03-02,Resolved
+624,3550,950,Delayed order,2026-04-26,2026-04-29,Resolved
+625,3552,729,Cancellation / refund,2026-01-18,2026-01-22,Resolved
+626,3554,1026,Delayed order,2026-02-06,2026-02-08,Resolved
+627,3555,574,Delayed order,2026-01-25,2026-01-27,Resolved
+628,3559,603,Delayed order,2026-03-30,2026-03-31,Resolved
+629,3560,506,Order status inquiry,2026-05-13,2026-05-14,Resolved
+630,3569,993,Order status inquiry,2026-04-16,2026-04-17,Resolved
+631,3576,1274,Delayed order,2026-07-03,2026-07-05,Resolved
+632,3584,990,Cancellation / refund,2026-03-17,2026-03-19,Resolved
+633,3592,343,Delayed order,2026-03-02,2026-03-05,Resolved
+634,3602,785,Order status inquiry,2026-02-15,2026-02-16,Resolved
+635,3611,1020,Delayed order,2026-05-24,2026-05-26,Resolved
+636,3615,1159,Delayed order,2026-06-16,2026-06-18,Resolved
+637,3631,884,Cancellation / refund,2026-03-24,2026-03-28,Resolved
+638,3644,102,Order status inquiry,2026-03-15,2026-03-16,Resolved
+639,3648,437,Delayed order,2026-03-06,2026-03-08,Resolved
+640,3649,515,Order status inquiry,2026-03-11,2026-03-12,Resolved
+641,3658,341,Delayed order,2026-02-06,2026-02-08,Resolved
+642,3659,890,Cancellation / refund,2026-06-17,2026-06-21,Resolved
+643,3661,128,Delayed order,2026-03-03,2026-03-06,Resolved
+644,3662,464,Delayed order,2026-02-08,2026-02-12,Resolved
+645,3672,912,Cancellation / refund,2026-03-26,2026-03-29,Resolved
+646,3673,64,Delayed order,2026-02-22,2026-02-25,Resolved
+647,3687,92,Delayed order,2026-03-30,2026-04-03,Resolved
+648,3690,1436,Delayed order,2026-05-19,2026-05-22,Resolved
+649,3698,1371,Delayed order,2026-05-18,2026-05-21,Resolved
+650,3700,231,Delayed order,2026-03-14,2026-03-18,Resolved
+651,3704,1118,Order status inquiry,2026-01-19,2026-01-20,Resolved
+652,3706,167,Delayed order,2026-04-03,2026-04-04,Resolved
+653,3709,342,Cancellation / refund,2026-03-05,2026-03-08,Resolved
+654,3712,595,Delayed order,2026-05-16,2026-05-17,Resolved
+655,3719,142,Delayed order,2026-03-12,2026-03-14,Resolved
+656,3744,512,Delayed order,2026-02-08,2026-02-12,Resolved
+657,3754,581,Order status inquiry,2026-02-13,2026-02-14,Resolved
+658,3757,99,Delayed order,2026-03-17,2026-03-18,Resolved
+659,3762,958,Delayed order,2026-04-04,2026-04-06,Resolved
+660,3766,35,Delayed order,2026-05-17,2026-05-20,Resolved
+661,3767,128,Order status inquiry,2026-01-07,2026-01-08,Resolved
+662,3770,561,Delayed order,2026-05-22,2026-05-26,Resolved
+663,3777,1297,Delayed order,2026-06-28,2026-06-30,Resolved
+664,3778,677,Delayed order,2026-04-27,2026-04-28,Resolved
+665,3787,199,Delayed order,2026-01-13,2026-01-14,Resolved
+666,3788,600,Order status inquiry,2026-01-07,2026-01-08,Resolved
+667,3789,1210,Delayed order,2026-06-23,2026-06-26,Resolved
+668,3792,1061,Delayed order,2026-04-29,2026-05-02,Resolved
+669,3793,70,Order status inquiry,2026-03-01,2026-03-02,Resolved
+670,3804,1225,Order status inquiry,2026-01-16,2026-01-17,Resolved
+671,3808,1058,Payment issue,2026-02-17,2026-02-20,Resolved
+672,3809,1263,Delayed order,2026-06-13,2026-06-16,Resolved
+673,3811,688,Payment issue,2026-05-30,2026-06-01,Resolved
+674,3812,724,Delayed order,2026-03-21,2026-03-24,Resolved
+675,3817,1040,Order status inquiry,2026-04-22,2026-04-23,Resolved
+676,3819,489,Delayed order,2026-03-06,2026-03-08,Resolved
+677,3822,184,Delayed order,2026-05-23,2026-05-25,Resolved
+678,3832,666,Order status inquiry,2026-03-20,2026-03-21,Resolved
+679,3841,1236,Order status inquiry,2026-01-31,2026-02-01,Resolved
+680,3842,746,Delayed order,2026-06-08,2026-06-09,Resolved
+681,3845,1027,Cancellation / refund,2026-02-06,2026-02-07,Resolved
+682,3863,786,Delayed order,2026-05-07,2026-05-11,Resolved
+683,3869,1020,Refund delay,2026-04-01,2026-04-07,Resolved
+684,3889,1306,Order status inquiry,2026-06-01,2026-06-02,Resolved
+685,3897,1255,Order status inquiry,2026-02-18,2026-02-19,Resolved
+686,3902,912,Delayed order,2026-01-13,2026-01-14,Resolved
+687,3921,387,Delayed order,2026-02-28,2026-03-03,Resolved
+688,3925,722,Delayed order,2026-05-13,2026-05-16,Resolved
+689,3937,867,Delayed order,2026-05-11,2026-05-13,Resolved
+690,3943,1338,Delayed order,2026-06-17,2026-06-19,Resolved
+691,3944,710,Delayed order,2026-03-12,2026-03-14,Resolved
+692,3959,1135,Cancellation / refund,2026-06-19,2026-06-21,Resolved
+693,3960,618,Cancellation / refund,2026-04-12,2026-04-17,Resolved
+694,3964,790,Refund delay,2026-04-16,2026-04-23,Resolved
+695,3965,46,Order status inquiry,2026-02-27,2026-02-28,Resolved
+696,3967,215,Order status inquiry,2026-04-19,2026-04-20,Resolved
+697,3968,977,Order status inquiry,2026-02-16,2026-02-17,Resolved
+698,3971,947,Delayed order,2026-04-14,2026-04-17,Resolved
+699,3975,287,Order status inquiry,2026-03-16,2026-03-17,Resolved
+700,3986,155,Order status inquiry,2026-01-21,2026-01-22,Resolved
+701,3987,1480,Payment issue,2026-05-12,2026-05-15,Resolved
+702,3989,1132,Delayed order,2026-06-16,2026-06-18,Resolved
+703,3991,305,Payment issue,2026-01-22,2026-01-24,Resolved
+704,3996,691,Delayed order,2026-03-02,2026-03-03,Resolved
+705,3998,455,Order status inquiry,2026-04-02,2026-04-03,Resolved
+706,3999,1163,Delayed order,2026-05-19,2026-05-20,Resolved
+707,4000,476,Delayed order,2026-06-15,2026-06-18,Resolved
+708,4008,548,Delayed order,2026-03-10,2026-03-13,Resolved
+709,4017,163,Delayed order,2026-05-23,2026-05-24,Resolved
+710,4019,1314,Cancellation / refund,2026-01-20,2026-01-23,Resolved
+711,4022,503,Order status inquiry,2026-03-09,2026-03-10,Resolved
+712,4025,966,Payment issue,2026-05-24,2026-05-25,Resolved
+713,4026,1265,Delayed order,2026-06-12,2026-06-13,Resolved
+714,4028,1419,Delayed order,2026-03-25,2026-03-26,Resolved
+715,4033,417,Delayed order,2026-05-03,2026-05-07,Resolved
+716,4034,1374,Order status inquiry,2026-02-22,2026-02-23,Resolved
+717,4037,832,Delayed order,2026-06-29,2026-06-30,Resolved
+718,4041,404,Order status inquiry,2026-02-05,2026-02-06,Resolved
+719,4045,492,Cancellation / refund,2026-03-10,2026-03-12,Resolved
+720,4046,624,Delayed order,2026-06-06,2026-06-09,Resolved
+721,4049,1015,Delayed order,2026-04-10,2026-04-14,Resolved
+722,4062,376,Order status inquiry,2026-03-17,2026-03-18,Resolved
+723,4063,327,Delayed order,2026-03-03,2026-03-04,Resolved
+724,4069,726,Order status inquiry,2026-02-01,2026-02-02,Resolved
+725,4072,1417,Delayed order,2026-04-08,2026-04-11,Resolved
+726,4077,562,Delayed order,2026-03-10,2026-03-12,Resolved
+727,4095,647,Delayed order,2026-03-15,2026-03-19,Resolved
+728,4101,1441,Order status inquiry,2026-04-06,2026-04-07,Resolved
+729,4104,727,Delayed order,2026-01-26,2026-01-28,Resolved
+730,4111,660,Delayed order,2026-04-04,2026-04-07,Resolved
+731,4112,1289,Delayed order,2026-02-19,2026-02-20,Resolved
+732,4120,609,Cancellation / refund,2026-04-23,2026-04-26,Resolved
+733,4126,192,Delayed order,2026-06-09,2026-06-10,Resolved
+734,4130,357,Refund delay,2026-05-01,2026-05-06,Resolved
+735,4133,1286,Cancellation / refund,2026-01-31,2026-02-03,Resolved
+736,4136,1206,Delayed order,2026-03-02,2026-03-04,Resolved
+737,4137,1391,Delayed order,2026-02-05,2026-02-09,Resolved
+738,4143,581,Cancellation / refund,2026-04-08,2026-04-13,Resolved
+739,4151,46,Order status inquiry,2026-03-07,2026-03-08,Resolved
+740,4155,1160,Cancellation / refund,2026-06-08,2026-06-12,Resolved
+741,4160,751,Delayed order,2026-04-07,2026-04-09,Resolved
+742,4163,703,Delayed order,2026-06-23,2026-06-27,Resolved
+743,4166,1102,Payment issue,2026-01-18,2026-01-20,Resolved
+744,4168,126,Delayed order,2026-04-25,2026-04-28,Resolved
+745,4169,552,Delayed order,2026-02-19,2026-02-22,Resolved
+746,4170,368,Delayed order,2026-04-13,2026-04-14,Resolved
+747,4171,454,Cancellation / refund,2026-05-06,2026-05-07,Resolved
+748,4181,1360,Delayed order,2026-03-20,2026-03-22,Resolved
+749,4184,1352,Delayed order,2026-03-03,2026-03-05,Resolved
+750,4190,769,Cancellation / refund,2026-02-16,2026-02-18,Resolved
+751,4195,1143,Order status inquiry,2026-06-28,2026-06-29,Resolved
+752,4203,210,Delayed order,2026-06-07,2026-06-08,Resolved
+753,4209,69,Delayed order,2026-02-26,2026-02-27,Resolved
+754,4213,1040,Order status inquiry,2026-01-16,2026-01-17,Resolved
+755,4219,1478,Delayed order,2026-02-03,2026-02-07,Resolved
+756,4223,1263,Delayed order,2026-05-31,2026-06-04,Resolved
+757,4229,1135,Delayed order,2026-02-28,2026-03-02,Resolved
+758,4231,968,Delayed order,2026-04-22,2026-04-23,Resolved
+759,4240,670,Order status inquiry,2026-02-27,2026-02-28,Resolved
+760,4243,793,Delayed order,2026-02-08,2026-02-11,Resolved
+761,4243,793,Refund delay,2026-02-13,2026-02-19,Resolved
+762,4245,171,Cancellation / refund,2026-05-21,2026-05-26,Resolved
+763,4248,734,Delayed order,2026-05-04,2026-05-07,Resolved
+764,4250,478,Order status inquiry,2026-06-29,2026-06-30,Resolved
+765,4253,80,Delayed order,2026-03-19,2026-03-22,Resolved
+766,4257,1470,Order status inquiry,2026-06-17,2026-06-18,Resolved
+767,4258,257,Delayed order,2026-03-26,2026-03-27,Resolved
+768,4264,37,Delayed order,2026-06-03,2026-06-05,Resolved
+769,4266,442,Cancellation / refund,2026-01-27,2026-02-01,Resolved
+770,4275,1024,Delayed order,2026-03-27,2026-03-29,Resolved
+771,4280,1170,Delayed order,2026-03-16,2026-03-17,Resolved
+772,4281,390,Delayed order,2026-04-29,2026-05-01,Resolved
+773,4291,721,Delayed order,2026-02-27,2026-02-28,Resolved
+774,4295,155,Order status inquiry,2026-04-27,2026-04-28,Resolved
+775,4305,1394,Cancellation / refund,2026-01-14,2026-01-17,Resolved
+776,4315,1071,Delayed order,2026-04-10,2026-04-11,Resolved
+777,4318,1349,Delayed order,2026-04-12,2026-04-14,Resolved
+778,4319,475,Refund delay,2026-02-14,2026-02-18,Resolved
+779,4327,120,Refund delay,2026-03-16,2026-03-18,Resolved
+780,4333,704,Delayed order,2026-01-22,2026-01-25,Resolved
+781,4336,1030,Delayed order,2026-05-14,2026-05-16,Resolved
+782,4342,1122,Cancellation / refund,2026-06-16,2026-06-17,Resolved
+783,4347,873,Delayed order,2026-06-10,2026-06-13,Resolved
+784,4353,1087,Payment issue,2026-04-19,2026-04-22,Resolved
+785,4355,479,Order status inquiry,2026-04-21,2026-04-22,Resolved
+786,4360,566,Delayed order,2026-05-11,2026-05-15,Resolved
+787,4363,1358,Cancellation / refund,2026-04-14,2026-04-16,Resolved
+788,4373,245,Cancellation / refund,2026-03-04,2026-03-09,Resolved
+789,4380,1104,Order status inquiry,2026-05-05,2026-05-06,Resolved
+790,4381,594,Payment issue,2026-05-16,2026-05-19,Resolved
+791,4406,1214,Delayed order,2026-02-03,2026-02-06,Resolved
+792,4410,869,Delayed order,2026-02-20,2026-02-23,Resolved
+793,4420,384,Payment issue,2026-05-09,2026-05-10,Resolved
+794,4425,774,Order status inquiry,2026-03-17,2026-03-18,Resolved
+795,4428,811,Order status inquiry,2026-02-26,2026-02-27,Resolved
+796,4430,630,Cancellation / refund,2026-05-10,2026-05-14,Resolved
+797,4432,995,Delayed order,2026-01-26,2026-01-30,Resolved
+798,4438,549,Order status inquiry,2026-04-20,2026-04-21,Resolved
+799,4439,390,Delayed order,2026-04-07,2026-04-08,Resolved
+800,4460,1281,Cancellation / refund,2026-02-01,2026-02-05,Resolved
+801,4463,481,Order status inquiry,2026-03-20,2026-03-21,Resolved
+802,4464,1447,Delayed order,2026-06-25,2026-06-28,Resolved
+803,4478,957,Delayed order,2026-03-09,2026-03-10,Resolved
+804,4484,1399,Delayed order,2026-03-22,2026-03-25,Resolved
+805,4488,234,Delayed order,2026-05-27,2026-05-31,Resolved
+806,4498,1237,Delayed order,2026-02-12,2026-02-15,Resolved
+807,4505,1031,Payment issue,2026-03-14,2026-03-15,Resolved
+808,4507,121,Cancellation / refund,2026-04-23,2026-04-25,Resolved
+809,4510,414,Cancellation / refund,2026-06-04,2026-06-08,Resolved
+810,4512,531,Refund delay,2026-04-23,2026-04-28,Resolved
+811,4513,723,Cancellation / refund,2026-04-25,2026-04-28,Resolved
+812,4523,903,Delayed order,2026-03-26,2026-03-28,Resolved
+813,4526,1269,Order status inquiry,2026-06-06,2026-06-07,Resolved
+814,4532,911,Delayed order,2026-05-27,2026-05-28,Resolved
+815,4534,708,Delayed order,2026-02-11,2026-02-15,Resolved
+816,4535,38,Delayed order,2026-06-17,2026-06-19,Resolved
+817,4545,1033,Delayed order,2026-06-05,2026-06-07,Resolved
+818,4554,1179,Order status inquiry,2026-03-03,2026-03-04,Resolved
+819,4555,42,Order status inquiry,2026-05-06,2026-05-07,Resolved
+820,4558,1353,Delayed order,2026-02-06,2026-02-10,Resolved
+821,4562,652,Delayed order,2026-05-01,2026-05-04,Resolved
+822,4568,972,Delayed order,2026-05-03,2026-05-05,Resolved
+823,4569,643,Refund delay,2026-02-27,2026-03-05,Resolved
+824,4570,1158,Delayed order,2026-05-26,2026-05-30,Resolved
+825,4571,1119,Order status inquiry,2026-01-31,2026-02-01,Resolved
+826,4574,305,Cancellation / refund,2026-06-21,2026-06-25,Resolved
+827,4581,126,Refund delay,2026-03-25,2026-03-28,Resolved
+828,4586,129,Delayed order,2026-03-18,2026-03-21,Resolved
+829,4592,925,Delayed order,2026-04-24,2026-04-27,Resolved
+830,4602,640,Delayed order,2026-03-08,2026-03-10,Resolved
+831,4606,1403,Delayed order,2026-04-21,2026-04-25,Resolved
+832,4612,1129,Cancellation / refund,2026-01-01,2026-01-03,Resolved
+833,4617,635,Cancellation / refund,2026-02-22,2026-02-23,Resolved
+834,4626,1151,Delayed order,2026-04-18,2026-04-21,Resolved
+835,4629,580,Order status inquiry,2026-06-19,2026-06-20,Resolved
+836,4635,596,Delayed order,2026-01-28,2026-02-01,Resolved
+837,4644,356,Delayed order,2026-04-25,2026-04-28,Resolved
+838,4649,1,Delayed order,2026-04-13,2026-04-17,Resolved
+839,4663,708,Order status inquiry,2026-04-09,2026-04-10,Resolved
+840,4671,711,Delayed order,2026-06-04,2026-06-06,Resolved
+841,4679,236,Delayed order,2026-06-02,2026-06-04,Resolved
+842,4687,660,Order status inquiry,2026-06-27,2026-06-28,Resolved
+843,4690,1427,Delayed order,2026-05-28,2026-06-01,Resolved
+844,4708,855,Cancellation / refund,2026-05-26,2026-05-28,Resolved
+845,4709,826,Delayed order,2026-02-20,2026-02-21,Resolved
+846,4711,809,Order status inquiry,2026-06-15,2026-06-16,Resolved
+847,4714,37,Delayed order,2026-06-29,2026-07-01,Resolved
+848,4722,1499,Payment issue,2026-05-02,2026-05-04,Resolved
+849,4727,220,Cancellation / refund,2026-06-11,2026-06-12,Resolved
+850,4745,793,Order status inquiry,2026-05-27,2026-05-28,Resolved
+851,4751,1497,Delayed order,2026-03-26,2026-03-27,Resolved
+852,4752,130,Delayed order,2026-04-14,2026-04-15,Resolved
+853,4754,920,Order status inquiry,2026-06-11,2026-06-12,Resolved
+854,4760,578,Cancellation / refund,2026-02-04,2026-02-05,Resolved
+855,4762,654,Delayed order,2026-06-23,2026-06-26,Resolved
+856,4767,809,Delayed order,2026-06-28,2026-07-02,Resolved
+857,4774,218,Cancellation / refund,2026-02-06,2026-02-09,Resolved
+858,4776,1283,Delayed order,2026-02-24,2026-02-25,Resolved
+859,4778,1268,Cancellation / refund,2026-01-25,2026-01-26,Resolved
+860,4779,915,Refund delay,2026-03-09,2026-03-15,Resolved
+861,4780,399,Refund delay,2026-02-05,2026-02-10,Resolved
+862,4784,305,Delayed order,2026-05-24,2026-05-26,Resolved
+863,4790,509,Payment issue,2026-05-30,2026-06-02,Resolved
+864,4797,1444,Delayed order,2026-05-15,2026-05-19,Resolved
+865,4799,58,Delayed order,2026-03-16,2026-03-20,Resolved
+866,4831,912,Order status inquiry,2026-03-31,2026-04-01,Resolved
+867,4832,369,Delayed order,2026-03-14,2026-03-17,Resolved
+868,4840,964,Delayed order,2026-02-27,2026-03-02,Resolved
+869,4843,1237,Delayed order,2026-06-22,2026-06-23,Resolved
+870,4857,923,Delayed order,2026-06-03,2026-06-07,Resolved
+871,4865,1164,Delayed order,2026-06-22,2026-06-23,Resolved
+872,4869,664,Order status inquiry,2026-03-20,2026-03-21,Resolved
+873,4870,1178,Cancellation / refund,2026-02-27,2026-02-28,Resolved
+874,4873,478,Delayed order,2026-01-17,2026-01-21,Resolved
+875,4877,1139,Cancellation / refund,2026-04-04,2026-04-09,Resolved
+876,4878,1370,Payment issue,2026-03-15,2026-03-18,Resolved
+877,4887,593,Delayed order,2026-02-24,2026-02-26,Resolved
+878,4891,1226,Payment issue,2026-03-29,2026-04-01,Resolved
+879,4900,564,Refund delay,2026-02-26,2026-02-28,Resolved
+880,4903,260,Delayed order,2026-06-24,2026-06-27,Resolved
+881,4910,487,Payment issue,2026-05-03,2026-05-04,Resolved
+882,4921,920,Delayed order,2026-05-18,2026-05-19,Resolved
+883,4934,1126,Delayed order,2026-06-11,2026-06-12,Resolved
+884,4937,833,Order status inquiry,2026-05-19,2026-05-20,Resolved
+885,4939,1120,Delayed order,2026-06-25,2026-06-29,Resolved
+886,4943,300,Order status inquiry,2026-04-10,2026-04-11,Resolved
+887,4946,994,Delayed order,2026-01-20,2026-01-24,Resolved
+888,4956,1500,Delayed order,2026-02-03,2026-02-04,Resolved
+889,4957,270,Order status inquiry,2026-04-12,2026-04-13,Resolved
+890,4958,1435,Delayed order,2026-03-23,2026-03-25,Resolved
+891,4963,1194,Order status inquiry,2026-03-02,2026-03-03,Resolved
+892,4967,81,Cancellation / refund,2026-02-07,2026-02-10,Resolved
+893,4968,1442,Order status inquiry,2026-05-21,2026-05-22,Resolved
+894,4973,144,Payment issue,2026-05-19,2026-05-21,Resolved
+895,4975,1492,Cancellation / refund,2026-04-29,2026-04-30,Resolved
+896,4977,12,Order status inquiry,2026-06-25,2026-06-26,Resolved
+897,4981,51,Cancellation / refund,2026-04-07,2026-04-12,Resolved
+898,4983,17,Delayed order,2026-04-14,2026-04-15,Resolved
+899,4986,284,Delayed order,2026-05-25,2026-05-29,Resolved
+900,4992,1186,Delayed order,2026-06-23,2026-06-24,Resolved
+901,4998,227,Delayed order,2026-04-01,2026-04-03,Resolved
+902,5010,1499,Cancellation / refund,2026-03-03,2026-03-07,Resolved
+903,5014,173,Delayed order,2026-06-21,2026-06-24,Resolved
+904,5021,409,Delayed order,2026-03-09,2026-03-12,Resolved
+905,5024,398,Delayed order,2026-03-04,2026-03-05,Resolved
+906,5029,1370,Order status inquiry,2026-03-26,2026-03-27,Resolved
+907,5036,1479,Payment issue,2026-05-14,2026-05-16,Resolved
+908,5039,758,Refund delay,2026-02-20,2026-02-24,Resolved
+909,5043,410,Cancellation / refund,2026-04-09,2026-04-14,Resolved
+910,5055,59,Order status inquiry,2026-05-26,2026-05-27,Resolved
+911,5057,255,Order status inquiry,2026-02-15,2026-02-16,Resolved
+912,5065,1433,Cancellation / refund,2026-05-24,2026-05-29,Resolved
+913,5066,1052,Delayed order,2026-02-23,2026-02-27,Resolved
+914,5074,1316,Delayed order,2026-03-23,2026-03-27,Resolved
+915,5075,420,Cancellation / refund,2026-03-11,2026-03-12,Resolved
+916,5079,451,Order status inquiry,2026-06-28,2026-06-29,Resolved
+917,5082,1269,Order status inquiry,2026-05-05,2026-05-06,Resolved
+918,5086,316,Delayed order,2026-06-12,2026-06-15,Resolved
+919,5096,1170,Order status inquiry,2026-05-15,2026-05-16,Resolved
+920,5097,688,Order status inquiry,2026-03-30,2026-03-31,Resolved
+921,5098,321,Delayed order,2026-05-17,2026-05-21,Resolved
+922,5104,836,Delayed order,2026-02-04,2026-02-07,Resolved
+923,5105,1316,Delayed order,2026-07-03,2026-07-04,Resolved
+924,5109,328,Delayed order,2026-03-20,2026-03-24,Resolved
+925,5113,643,Order status inquiry,2026-04-10,2026-04-11,Resolved
+926,5116,1165,Delayed order,2026-06-05,2026-06-07,Resolved
+927,5130,683,Delayed order,2026-01-16,2026-01-17,Resolved
+928,5132,1380,Delayed order,2026-06-10,2026-06-14,Resolved
+929,5149,582,Cancellation / refund,2026-02-04,2026-02-08,Resolved
+930,5151,289,Delayed order,2026-04-25,2026-04-26,Resolved
+931,5164,1303,Payment issue,2026-01-04,2026-01-07,Resolved
+932,5169,77,Delayed order,2026-04-30,2026-05-01,Resolved
+933,5179,1093,Delayed order,2026-06-28,2026-06-30,Resolved
+934,5180,1050,Delayed order,2026-04-03,2026-04-05,Resolved
+935,5180,1050,Refund delay,2026-04-07,2026-04-12,Resolved
+936,5211,866,Order status inquiry,2026-02-12,2026-02-13,Resolved
+937,5219,1319,Delayed order,2026-04-26,2026-04-30,Resolved
+938,5220,682,Order status inquiry,2026-01-29,2026-01-30,Resolved
+939,5224,418,Delayed order,2026-04-04,2026-04-07,Resolved
+940,5236,1383,Order status inquiry,2026-03-25,2026-03-26,Resolved
+941,5238,789,Cancellation / refund,2026-03-04,2026-03-08,Resolved
+942,5243,7,Order status inquiry,2026-03-01,2026-03-02,Resolved
+943,5245,191,Order status inquiry,2026-06-27,2026-06-28,Resolved
+944,5250,770,Delayed order,2026-06-03,2026-06-04,Resolved
+945,5259,692,Delayed order,2026-03-18,2026-03-19,Resolved
+946,5268,793,Delayed order,2026-04-20,2026-04-24,Resolved
+947,5276,840,Delayed order,2026-05-19,2026-05-21,Resolved
+948,5278,207,Order status inquiry,2026-04-08,2026-04-09,Resolved
+949,5279,397,Order status inquiry,2026-02-12,2026-02-13,Resolved
+950,5281,34,Delayed order,2026-01-19,2026-01-21,Resolved
+951,5282,1036,Order status inquiry,2026-05-31,2026-06-01,Resolved
+952,5283,581,Delayed order,2026-03-31,2026-04-02,Resolved
+953,5285,1348,Order status inquiry,2026-04-20,2026-04-21,Resolved
+954,5290,574,Delayed order,2026-03-17,2026-03-20,Resolved
+955,5296,408,Order status inquiry,2026-05-04,2026-05-05,Resolved
+956,5300,203,Delayed order,2026-06-05,2026-06-08,Resolved
+957,5303,608,Delayed order,2026-03-09,2026-03-10,Resolved
+958,5308,1102,Cancellation / refund,2026-01-22,2026-01-23,Resolved
+959,5319,126,Order status inquiry,2026-06-13,2026-06-14,Resolved
+960,5327,1052,Delayed order,2026-04-12,2026-04-14,Resolved
+961,5331,327,Delayed order,2026-04-17,2026-04-21,Resolved
+962,5333,326,Delayed order,2026-03-04,2026-03-08,Resolved
+963,5345,485,Delayed order,2026-04-13,2026-04-17,Resolved
+964,5350,342,Order status inquiry,2026-03-30,2026-03-31,Resolved
+965,5358,744,Delayed order,2026-04-05,2026-04-06,Resolved
+966,5362,1490,Cancellation / refund,2026-06-28,2026-07-02,Resolved
+967,5374,113,Cancellation / refund,2026-05-15,2026-05-17,Resolved
+968,5378,1217,Delayed order,2026-01-31,2026-02-04,Resolved
+969,5379,1134,Delayed order,2026-05-16,2026-05-17,Resolved
+970,5382,1146,Order status inquiry,2026-01-20,2026-01-21,Resolved
+971,5398,1168,Delayed order,2026-03-23,2026-03-24,Resolved
+972,5402,188,Delayed order,2026-04-30,2026-05-03,Resolved
+973,5407,755,Delayed order,2026-05-20,2026-05-24,Resolved
+974,5414,220,Delayed order,2026-05-18,2026-05-19,Resolved
+975,5416,1413,Delayed order,2026-04-09,2026-04-13,Resolved
+976,5418,220,Order status inquiry,2026-03-26,2026-03-27,Resolved
+977,5423,633,Delayed order,2026-06-21,2026-06-22,Resolved
+978,5434,1162,Delayed order,2026-03-30,2026-04-02,Resolved
+979,5451,1327,Order status inquiry,2026-06-18,2026-06-19,Resolved
+980,5454,779,Delayed order,2026-06-25,2026-06-27,Resolved
+981,5468,30,Delayed order,2026-04-05,2026-04-07,Resolved
+982,5470,206,Delayed order,2026-02-25,2026-03-01,Resolved
+983,5476,429,Delayed order,2026-02-18,2026-02-20,Resolved
+984,5487,568,Cancellation / refund,2026-04-15,2026-04-16,Resolved
+985,5497,1355,Delayed order,2026-05-18,2026-05-19,Resolved
+986,5504,934,Delayed order,2026-03-29,2026-03-31,Resolved
+987,5524,898,Refund delay,2026-03-23,2026-03-27,Resolved
+988,5525,1199,Delayed order,2026-05-22,2026-05-25,Resolved
+989,5529,703,Delayed order,2026-03-05,2026-03-07,Resolved
+990,5530,117,Delayed order,2026-04-21,2026-04-24,Resolved
+991,5531,378,Delayed order,2026-03-18,2026-03-22,Resolved
+992,5533,566,Order status inquiry,2026-03-27,2026-03-28,Resolved
+993,5534,552,Delayed order,2026-01-16,2026-01-20,Resolved
+994,5545,637,Delayed order,2026-05-17,2026-05-20,Resolved
+995,5549,1373,Payment issue,2026-06-04,2026-06-07,Resolved
+996,5551,728,Delayed order,2026-04-05,2026-04-09,Resolved
+997,5566,682,Order status inquiry,2026-01-03,2026-01-04,Resolved
+998,5569,1048,Refund delay,2026-05-30,2026-06-03,Resolved
+999,5570,220,Delayed order,2026-03-24,2026-03-28,Resolved
+1000,5574,854,Delayed order,2026-02-11,2026-02-15,Resolved
+1001,5583,1002,Delayed order,2026-05-21,2026-05-22,Resolved
+1002,5588,604,Delayed order,2026-04-16,2026-04-20,Resolved
+1003,5589,305,Delayed order,2026-04-23,2026-04-26,Resolved
+1004,5593,1296,Delayed order,2026-02-02,2026-02-04,Resolved
+1005,5603,882,Order status inquiry,2026-03-17,2026-03-18,Resolved
+1006,5604,1383,Delayed order,2026-06-09,2026-06-12,Resolved
+1007,5611,843,Delayed order,2026-03-06,2026-03-09,Resolved
+1008,5612,44,Delayed order,2026-05-13,2026-05-17,Resolved
+1009,5620,1346,Delayed order,2026-06-15,2026-06-17,Resolved
+1010,5623,440,Order status inquiry,2026-06-02,2026-06-03,Resolved
+1011,5624,1422,Cancellation / refund,2026-01-31,2026-02-02,Resolved
+1012,5625,1277,Delayed order,2026-05-15,2026-05-16,Resolved
+1013,5632,85,Delayed order,2026-03-23,2026-03-25,Resolved
+1014,5637,1034,Delayed order,2026-04-15,2026-04-16,Resolved
+1015,5647,1465,Order status inquiry,2026-06-20,2026-06-21,Resolved
+1016,5649,1483,Delayed order,2026-05-06,2026-05-07,Resolved
+1017,5650,243,Delayed order,2026-04-25,2026-04-27,Resolved
+1018,5651,676,Delayed order,2026-03-13,2026-03-14,Resolved
+1019,5660,406,Payment issue,2026-03-29,2026-03-30,Resolved
+1020,5662,1349,Payment issue,2026-03-13,2026-03-15,Resolved
+1021,5671,922,Delayed order,2026-02-04,2026-02-05,Resolved
+1022,5676,1335,Order status inquiry,2026-04-05,2026-04-06,Resolved
+1023,5688,1042,Refund delay,2026-05-07,2026-05-10,Resolved
+1024,5689,1458,Order status inquiry,2026-04-15,2026-04-16,Resolved
+1025,5692,1419,Delayed order,2026-03-16,2026-03-19,Resolved
+1026,5697,927,Delayed order,2026-04-18,2026-04-22,Resolved
+1027,5719,295,Order status inquiry,2026-04-16,2026-04-17,Resolved
+1028,5723,1324,Delayed order,2026-05-09,2026-05-12,Resolved
+1029,5724,390,Payment issue,2026-05-12,2026-05-14,Resolved
+1030,5725,892,Cancellation / refund,2026-03-03,2026-03-06,Resolved
+1031,5728,242,Delayed order,2026-05-13,2026-05-16,Resolved
+1032,5734,891,Delayed order,2026-06-06,2026-06-08,Resolved
+1033,5747,156,Delayed order,2026-01-31,2026-02-02,Resolved
+1034,5749,192,Delayed order,2026-05-26,2026-05-28,Resolved
+1035,5760,1187,Delayed order,2026-04-09,2026-04-11,Resolved
+1036,5767,682,Delayed order,2026-05-12,2026-05-15,Resolved
+1037,5772,908,Delayed order,2026-01-21,2026-01-24,Resolved
+1038,5776,1081,Cancellation / refund,2026-04-06,2026-04-11,Resolved
+1039,5780,254,Delayed order,2026-04-14,2026-04-17,Resolved
+1040,5782,670,Delayed order,2026-03-21,2026-03-24,Resolved
+1041,5787,491,Delayed order,2026-06-05,2026-06-07,Resolved
+1042,5789,24,Order status inquiry,2026-02-08,2026-02-09,Resolved
+1043,5793,896,Delayed order,2026-02-10,2026-02-12,Resolved
+1044,5806,217,Delayed order,2026-05-06,2026-05-09,Resolved
+1045,5810,1195,Delayed order,2026-04-09,2026-04-11,Resolved
+1046,5811,635,Order status inquiry,2026-02-23,2026-02-24,Resolved
+1047,5813,100,Cancellation / refund,2026-04-24,2026-04-29,Resolved
+1048,5818,1262,Order status inquiry,2026-05-18,2026-05-19,Resolved
+1049,5819,385,Payment issue,2026-04-09,2026-04-10,Resolved
+1050,5820,962,Delayed order,2026-06-11,2026-06-15,Resolved
+1051,5825,952,Delayed order,2026-01-31,2026-02-04,Resolved
+1052,5829,1383,Order status inquiry,2026-06-11,2026-06-12,Resolved
+1053,5834,1227,Delayed order,2026-06-12,2026-06-14,Resolved
+1054,5837,637,Delayed order,2026-03-29,2026-04-01,Resolved
+1055,5844,1170,Refund delay,2026-03-14,2026-03-16,Resolved
+1056,5849,492,Delayed order,2026-02-28,2026-03-03,Resolved
+1057,5850,338,Delayed order,2026-05-11,2026-05-14,Resolved
+1058,5852,1199,Order status inquiry,2026-02-27,2026-02-28,Resolved
+1059,5853,1226,Cancellation / refund,2026-04-22,2026-04-24,Resolved
+1060,5858,301,Refund delay,2026-01-26,2026-01-30,Resolved
+1061,5860,320,Order status inquiry,2026-06-18,2026-06-19,Resolved
+1062,5876,147,Delayed order,2026-02-23,2026-02-26,Resolved
+1063,5885,966,Cancellation / refund,2026-03-24,2026-03-29,Resolved
+1064,5886,294,Payment issue,2026-05-07,2026-05-08,Resolved
+1065,5895,261,Delayed order,2026-01-27,2026-01-28,Resolved
+1066,5905,1340,Delayed order,2026-04-08,2026-04-10,Resolved
+1067,5911,1407,Delayed order,2026-06-12,2026-06-14,Resolved
+1068,5936,309,Cancellation / refund,2026-06-22,2026-06-23,Resolved
+1069,5945,1354,Delayed order,2026-06-06,2026-06-10,Resolved
+1070,5947,606,Delayed order,2026-05-30,2026-06-02,Resolved
+1071,5953,628,Delayed order,2026-02-04,2026-02-07,Resolved
+1072,5955,180,Cancellation / refund,2026-04-26,2026-04-27,Resolved
+1073,5964,814,Delayed order,2026-02-07,2026-02-08,Resolved
+1074,5965,179,Order status inquiry,2026-04-25,2026-04-26,Resolved
+1075,5968,963,Delayed order,2026-03-11,2026-03-15,Resolved
+1076,5971,912,Delayed order,2026-05-29,2026-06-01,Resolved
+1077,5973,711,Cancellation / refund,2026-04-06,2026-04-11,Resolved
+1078,5976,243,Delayed order,2026-06-26,2026-06-30,Resolved
+1079,5977,157,Cancellation / refund,2026-03-18,2026-03-19,Resolved
+1080,5986,539,Order status inquiry,2026-03-15,2026-03-16,Resolved
+1081,5997,930,Refund delay,2026-06-30,2026-07-02,Resolved
